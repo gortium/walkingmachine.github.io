@@ -1,13 +1,13 @@
 language: ruby
 rvm:
 - 2.2.5
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
 script: bundle exec jekyll build
-
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+sudo: false
 
-sudo: false # route your build to the container-based infrastructure for a faster build
+notifications:
+  slack:
+    rooms:
+      secure: EHQbQ/jywmE113HYfO9xAFDbfZbiQx2hswMjcrGSKHq/AP4iC7EbF1kn8A93tT3OZ6rtEs/Oxu+eTgoWuUccixgvcHAsl4gONDTMh5HT794qWeXVuII+9WOVpRuBzhDmori4a/jatOPs4lVB4Cdm/TgM9JqtBJg24QK+C4b4dKclJaRasqQVlinteNqxPRAoJ3KsWAlrFweOWq35aOsuZ5sw65HbogtrjMCjQrnTUVwLHnbaj7Ite4zWYAPj+UphVxRFKUJuBjbP7NIVTQFVH+dZseM7RhjT7+FK+PCedlQjLzGtXGzZqVbOcBHFe7aFE+3x+R5mKgyFNdEJxeymvRadKXjuQN08X0e9S4CdoXiquJ3CHJYn4QIWUDSusUgKDXpbS6F/zyDv80JKp7GWwjSSjZQmsJsRvRw7kda6j2ZTcdqXLxQAGWvTUIpsr+R/MrZiXi/xoNNuEiZrgOTMp3G7Em7dJMeKH5F+z47iPOnTzVtanGbRs1LU6R4HXA97VajBRplC0BeUGAplptkrioJ4nlmxVt+D8eq6yrJtgDqiD26/VsJMHu4Q5dHaSc3nOAr07/H+d1xnCorqajLyjHHDcWfCw8RDMMnSYARcTmUNgwhEaFHmS4a2oEfVwbUah+bUiejWLDxwpogcBWK/KXEfBx2lfNotcCKwyFqBmnA=
