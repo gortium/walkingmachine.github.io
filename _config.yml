@@ -1,7 +1,9 @@
-name: Walking Machine
-gems:
-  -jekyll-mentions
-  -jemoji
+title: Walking Machine
+email: walking@ens.etsmtl.ca
+twitter_username: WM_ETS
+github_username: wmets
+
+theme: alpha
 jekyll-mentions:
   base_url: https://twitter.com
 exclude: ['README.md','CNAME','vendor','Gemfile','Gemfile.lock']
