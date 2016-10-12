@@ -17,8 +17,23 @@
 					<h1><a href="/">Walking Machine</a> ETS</h1>
 					<nav id="nav">
 						<ul>
-							<li><a href="/" class ="button">Accueil</a></li>
-						</ul>
+              {% for menu in site.t[page.lang] %}
+  <li><a href="{{ menu[1].url }}" class="button">{{ menu[1].name }}</a></li>
+{% endfor %}
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
+{% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </li>
+{% endfor %}
+</ul>
 					</nav>
 				</header>
 
@@ -27,7 +42,7 @@
 					<h2>Walking Machine</h2>
 					<p>Club de robotique participant à la Robocup@Home</p>
 					<ul class="actions">
-						<li><a href="#" class="button special">À propos</a></li>
-						<li><a href="#" class="button">Nous Contacter</a></li>
+						<li><a href="#" class="button special">{{site.t[page.lang].about.name}}</a></li>
+						<li><a href="#" class="button">{{site.t[page.lang].contact.name}}</a></li>
 					</ul>
 				</section>

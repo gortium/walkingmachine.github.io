@@ -2,7 +2,6 @@ title: Walking Machine
 email: walking@ens.etsmtl.ca
 twitter_username: WM_ETS
 github_username: wmets
-
 theme: alpha
 jekyll-mentions:
   base_url: https://twitter.com
@@ -10,3 +9,25 @@ exclude: ['README.md','CNAME','vendor','Gemfile','Gemfile.lock']
 markdown: kramdown
 gems:
   - jekyll-feed
+
+t:
+  EN:
+    home:
+      name: "Home"
+      url: "/"
+    about:
+      name: "About"
+      url: "/about/"
+    contact:
+      name: "Contact-us"
+      url: "/contact-us"
+  FR:
+    home:
+      name: "Accueil"
+      url: "/"
+    about:
+      name: "À propos"
+      url: "/a-propos/"
+    contact:
+      name: "Nous contacter"
+      url: "/nous-contacter"

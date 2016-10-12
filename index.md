@@ -1,8 +1,10 @@
 ---
 title: Walking Machine
 layout: home
+lang: EN
+ref: home
 ---
 
-## Bonjour!
+## Welcome!
 
-Bienvenu sur le site du club de robotique Walking Machine de l'[ETS](http://www.etsmtl.ca). Un peu plus de texte pour nous décrire sera ajouté sous peu :)
+Welcome to the Walking Machine student team website from [ETS](http://en.etsmtl.ca/en/home?lang=en-ca). Some more info are to come!
