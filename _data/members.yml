@@ -1,0 +1,34 @@
+team:
+  admin:
+    name:"Administration"
+    membre:
+      jo:
+        name: "Jonathan Fortin"
+        poste: "Capitaine"
+      cass:
+        name: "Cassandra Lépine"
+        poste: "Trésorière"
+  mec:
+    name: "Mécanique"
+    membre:
+      doyle:
+        name: "Alexandra Doyle"
+        poste: "Chef d'équipe"
+      martin:
+        name: "Louis-Martin Caron"
+        poste: ""
+  log:
+    name: "Logiciel"
+    membre:
+      max:
+        name: "Maxime St-Pierre"
+        poste: "Chef d'équipe"
+  ele:
+    name: "Électrique"
+    membre:
+      jimmy:
+        name: "Jimmy Poirier"
+        poste: "Chef d'équipe"
+      alex:
+        name: "Alexandre Chartrand"
+        poste: ""
