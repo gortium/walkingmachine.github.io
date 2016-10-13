@@ -1,7 +1,7 @@
 team:
   admin:
-    name:"Administration"
-    membre:
+    name: "Administration"
+    membres:
       jo:
         name: "Jonathan Fortin"
         poste: "Capitaine"
@@ -10,7 +10,7 @@ team:
         poste: "Trésorière"
   mec:
     name: "Mécanique"
-    membre:
+    membres:
       doyle:
         name: "Alexandra Doyle"
         poste: "Chef d'équipe"
@@ -19,13 +19,13 @@ team:
         poste: ""
   log:
     name: "Logiciel"
-    membre:
+    membres:
       max:
         name: "Maxime St-Pierre"
         poste: "Chef d'équipe"
   ele:
     name: "Électrique"
-    membre:
+    membres:
       jimmy:
         name: "Jimmy Poirier"
         poste: "Chef d'équipe"
