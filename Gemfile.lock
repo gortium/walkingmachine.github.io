@@ -8,7 +8,6 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    alpha (1.7)
     codeclimate-test-reporter (0.6.0)
       simplecov (>= 0.7.1, < 1.0.0)
     coffee-script (2.4.1)
@@ -164,7 +163,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  alpha
   codeclimate-test-reporter
   coveralls
   github-pages
