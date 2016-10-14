@@ -12,7 +12,11 @@
 
 			<!-- Header -->
 				<header id="header">
-          <h1><a href="/">Walking Machine</a> ETS</h1>
+          {% if page.lang=="FR" %}
+						<h1><a href="/fr">Walking Machine</a> ETS</h1>
+					{% else %}
+						<h1><a href="/">Walking Machine</a> ETS</h1>
+					{% endif %}
 					<nav id="nav">
 						<ul>
               {% for menu in site.t[page.lang] %}
@@ -20,7 +24,7 @@
                   <li><a href="{{ menu[1].url }}" class="button">{{ menu[1].name }}</a></li>
                 {% else %}
                   <li>
-                    <a href="{{menu[1].url}}" class"icon fa-angle-down">{{menu[1].name}}</a>
+                    <a href="{{menu[1].url}}" class="icon fa-angle-down button">{{menu[1].name}}</a>
                     <ul>
                     {% for sub in menu[1].sub_m %}
                       <li><a href="{{sub[1].url}}">{{sub[1].name}}</a></li>

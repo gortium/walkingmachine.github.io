@@ -12,9 +12,6 @@ gems:
 
 t:
   EN:
-    home:
-      name: "Home"
-      url: "/"
     about:
       name: "About"
       url: "/en/about"
@@ -26,8 +23,8 @@ t:
           name: "Project"
           url: "/en/project"
         partener:
-          name: "Partener"
-          url: "/en/partener"
+          name: "Partner"
+          url: "/en/partner"
         who:
           name: "Who we are"
           url: "/en/about"
@@ -44,9 +41,6 @@ t:
       name: "Contact-us"
       url: "/en/contact"
   FR:
-    home:
-      name: "Accueil"
-      url: "/"
     about:
       name: "À propos"
       url: "/fr/about"

@@ -1,34 +1,56 @@
 team:
   admin:
-    name: "Administration"
+    name:
+      FR: "Administration"
+      EN: "Administration"
     membres:
       jo:
         name: "Jonathan Fortin"
-        poste: "Capitaine"
+        poste:
+          FR: "Capitaine"
+          EN: "Captain"
       cass:
         name: "Cassandra Lépine"
-        poste: "Trésorière"
+        poste:
+          FR: "Trésorière"
+          EN: "Treasurer"
+      jeff:
+        name: "Jeffrey Cousineau"
+        poste:
+          FR: "Co-Capitaine"
+          EN: "Co-Captain"
   mec:
-    name: "Mécanique"
+    name:
+      FR: "Mécanique"
+      EN: "Mecanical"
     membres:
       doyle:
         name: "Alexandra Doyle"
-        poste: "Chef d'équipe"
+        poste:
+          FR: "Chef d'équipe"
+          EN: "Team leader"
       martin:
         name: "Louis-Martin Caron"
-        poste: ""
   log:
-    name: "Logiciel"
+    name:
+      FR: "Logiciel"
+      EN: "Software"
     membres:
       max:
         name: "Maxime St-Pierre"
-        poste: "Chef d'équipe"
+        poste:
+          FR: "Chef d'équipe"
+          EN: "Team leader"
+        name: "Francis Grégoire"
   ele:
-    name: "Électrique"
+    name:
+      FR: "Électrique"
+      EN: "Electric"
     membres:
       jimmy:
         name: "Jimmy Poirier"
-        poste: "Chef d'équipe"
+        poste:
+          FR: "Chef d'équipe"
+          EN: "Team leader"
       alex:
         name: "Alexandre Chartrand"
-        poste: ""
