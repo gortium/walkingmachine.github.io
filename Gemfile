@@ -18,6 +18,7 @@ gem "alpha"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 gem 'coveralls', require: false
+gem "codeclimate-test-reporter", group: :test, require: nil
 
 # If you have any plugins, put them here!
 #group :jekyll_plugins do
