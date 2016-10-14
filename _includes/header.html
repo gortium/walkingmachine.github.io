@@ -16,21 +16,32 @@
 					<nav id="nav">
 						<ul>
               {% for menu in site.t[page.lang] %}
-  <li><a href="{{ menu[1].url }}" class="button">{{ menu[1].name }}</a></li>
-{% endfor %}
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
-  <li>
-    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-  </li>
-{% endfor %}
+                {% if menu[1].sub_m == null %}
+                  <li><a href="{{ menu[1].url }}" class="button">{{ menu[1].name }}</a></li>
+                {% else %}
+                  <li>
+                    <a href="{{menu[1].url}}" class"icon fa-angle-down">{{menu[1].name}}</a>
+                    <ul>
+                    {% for sub in menu[1].sub_m %}
+                      <li><a href="{{sub[1].url}}">{{sub[1].name}}</a></li>
+                    {% endfor %}
+                    </ul>
+                  </li>
+                {% endif %}
+              {% endfor %}
+              {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+              {% for post in posts %}
+              <li>
+                <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+              </li>
+              {% endfor %}
 
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-  </li>
-{% endfor %}
-</ul>
+              {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+              {% for page in pages %}
+                <li>
+                  <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                </li>
+              {% endfor %}
+            </ul>
 					</nav>
         </header>
