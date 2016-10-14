@@ -1,11 +1,22 @@
 language: ruby
 rvm:
 - 2.2.5
-script: bundle exec jekyll build
+before_script:
+ - chmod +x ./scripts/travisci
+
+script: ./scripts/travisci
+
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 sudo: false
+
+branches:
+  only:
+    - /feature_(.*)/
+    - /page_(.*)/
+    - /update_(.*)/
+
 notifications:
   slack:
     secure: uQ3N+JhHx55CKm4nzW5uH9QacoDnjOL6Q0qzaBjSouOKzK8w+v9MqpmbyihPoOiuo9W0EoPtGJBzuL6ivW5AlhaChzjoFRLlo70BuJ6kgtSgYy2GRK+hVK3jnxHCySLaF5vBUJQs23fAEVVvsqEU1k+NigEPYTUkjVcMgf5isoZSIbrgOsVgGuFxGKy3rJh6vw0ICjcKUngyynavua37ZDCqytl/v16WM6v0PWdQou0NVend9fvMhGLu4uyLDlKBYQSBmRiTk+oE3paEr7/kRf+PMYfKESGHeRTSe4FVWCcCRr9vRMtK5VzK/vSWNRRxB1u/bBMm4Pv0wiubDXmVm/pW8CGM6D8+oZ1IpvRz3c9RuAKN+S7LdGakrT1jXlykTGUfjwpHEb8KHvMRqCB2otxgEVPODjt2+VerOrAGyIs7R5pA7VQGq1c4mkhBsRUzEq/fZu+kWdyPLqMEp6F/GrLt2ZTKqiWu+a1jJaz8IZUEWDC7OwB1fLJYAeHaHH0D2J5kp4s82L73O3Z+Wpv9aDz6Knx4BEVoLFNnEPxH7Z8AAOw0+w7vLHDL6BuwFP8zJVxVYUOeycGlW5qhdtMqRxQa3HoGMsFg/hhQm0RG3glnKRXD3OQaDMGWME7hgRNriPrBMgPODLM/Rc/DlvHbxoaqOYRNAPe+HnuXGbA33Mg=
