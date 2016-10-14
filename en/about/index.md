@@ -4,7 +4,7 @@ subTitle: "Are we human or robot?"
 layout: generic
 lang: EN
 ref: about
-image: "some image link"
+image: 
 ---
 
 ## This is a test

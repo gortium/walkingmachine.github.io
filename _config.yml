@@ -53,7 +53,7 @@ t:
           url: "/fr/project"
         partener:
           name: "Partenaires"
-          url: "/fr/partener"
+          url: "/fr/partner"
         who:
           name: "Qui nous sommes"
           url: "/fr/about"
