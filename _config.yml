@@ -1,0 +1,71 @@
+title: Walking Machine
+email: walking@ens.etsmtl.ca
+twitter_username: WM_ETS
+github_username: wmets
+theme: alpha
+jekyll-mentions:
+  base_url: https://twitter.com
+exclude: ['README.md','CNAME','vendor','Gemfile','Gemfile.lock']
+markdown: kramdown
+gems:
+  - jekyll-feed
+
+t:
+  EN:
+    about:
+      name: "About"
+      url: "/en/about"
+      sub_m:
+        team:
+          name: "Our team"
+          url: "/en/team"
+        project:
+          name: "Project"
+          url: "/en/project"
+        partener:
+          name: "Partner"
+          url: "/en/partner"
+        who:
+          name: "Who we are"
+          url: "/en/about"
+    comp:
+      name: "Competition"
+      url: "/en/competition"
+    blog:
+      name: "Blog"
+      url: "/en/blog"
+    media:
+      name: "Media"
+      url: "/en/media"
+    contact:
+      name: "Contact-us"
+      url: "/en/contact"
+  FR:
+    about:
+      name: "À propos"
+      url: "/fr/about"
+      sub_m:
+        team:
+          name: "Notre equipe"
+          url: "/fr/team"
+        project:
+          name: "Nos projets"
+          url: "/fr/project"
+        partener:
+          name: "Partenaires"
+          url: "/fr/partner"
+        who:
+          name: "Qui nous sommes"
+          url: "/fr/about"
+    comp:
+      name: "Compétition"
+      url: "/fr/competition"
+    blog:
+      name: "Blog"
+      url: "/fr/blog"
+    media:
+      name: "Média"
+      url: "/fr/media"
+    contact:
+      name: "Nous contacter"
+      url: "/fr/contact"

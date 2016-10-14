@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>WalkingMachine ETS</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+
+
+
+
+
+			<!-- Header -->
+				<header id="header" class="alt">
+					{% if page.lang=="FR" %}
+						<h1><a href="/fr">Walking Machine</a> ETS</h1>
+					{% else %}
+						<h1><a href="/">Walking Machine</a> ETS</h1>
+					{% endif %}
+					<nav id="nav">
+						<ul>
+              {% for menu in site.t[page.lang] %}
+                {% if menu[1].sub_m == null %}
+                  <li><a href="{{ menu[1].url }}" class="button">{{ menu[1].name }}</a></li>
+                {% else %}
+                  <li>
+                    <a href="{{menu[1].url}}" class="icon fa-angle-down button"> {{menu[1].name}} </a>
+                    <ul>
+                    {% for sub in menu[1].sub_m %}
+                      <li><a href="{{sub[1].url}}">{{sub[1].name}}</a></li>
+                    {% endfor %}
+                    </ul>
+                  </li>
+                {% endif %}
+              {% endfor %}
+              {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+              {% for post in posts %}
+              <li>
+                <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+              </li>
+              {% endfor %}
+
+              {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+              {% for page in pages %}
+                <li>
+                  <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<h2>Walking Machine</h2>
+					<p>Club de robotique participant à la Robocup@Home</p>
+					<ul class="actions">
+						<li><a href={{site.t[page.lang].about.url}} class="button special">{{site.t[page.lang].about.name}}</a></li>
+						<li><a href={{site.t[page.lang].contact.url}} class="button">{{site.t[page.lang].contact.name}}</a></li>
+					</ul>
+				</section>

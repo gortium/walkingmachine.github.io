@@ -1,0 +1,11 @@
+{% include header.html %}
+<section id="main" class="container">
+  <header>
+    <h2>{{page.Title}}</h2>
+    <p>{{page.subTitle}}</p>
+  </header>
+  <div class="box">
+    <span class="image featured"><img src="{% if page.image != null %}{{page.image}}{% else %}/img/theme/banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>
+    {{content}}
+  </div>
+{% include footer.html %}
