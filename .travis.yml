@@ -2,7 +2,7 @@ language: ruby
 rvm:
 - 2.2.5
 before_script:
- - chmod +x ./script/travisci
+ - chmod +x ./scripts/travisci
 
 script: ./scripts/travisci
 
