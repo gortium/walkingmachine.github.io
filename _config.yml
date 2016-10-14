@@ -17,17 +17,45 @@ t:
       url: "/"
     about:
       name: "About"
-      url: "/about/"
+      url: "/en/about"
     contact:
       name: "Contact-us"
-      url: "/contact-us"
+      url: "/en/contact"
+    team:
+      name: "Our team"
+      url: "/en/team"
+    comp:
+      name: "Competition"
+      url: "/en/competition"
+    project:
+      name: "Project"
+      url: "/en/project"
+    partener:
+      name: "Partener"
+      url: "/en/partener"
+    robot:
+      name: "Robot"
+      url: "/en/robot"
+    blog:
+      name: "Blog"
+      url: "/en/blog"
+    media:
+      name: "Media"
+      url: "/en/media"
+
   FR:
     home:
       name: "Accueil"
-      url: "/"
+      url: "/fr/"
     about:
       name: "À propos"
-      url: "/a-propos/"
+      url: "/fr/about/"
     contact:
       name: "Nous contacter"
-      url: "/nous-contacter"
+      url: "/fr/contact"
+    team:
+      name: "Notre équipe"
+      url: "/fr/equipe"
+    comp:
+      name: "Compétition"
+      url: "/fr/compe"
