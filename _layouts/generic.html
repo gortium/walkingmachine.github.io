@@ -1,0 +1,11 @@
+{% include header.html %}
+<section id="main" class="container">
+  <header>
+    <h2>{{page.Title}}</h2>
+    <p>{{page.subTitle}}</p>
+  </header>
+  <div class="box">
+    <span class="image featured"><img src="{{page.image}}" alt="" /></span>
+    {{content}}
+  </div>
+{% include footer.html %}
