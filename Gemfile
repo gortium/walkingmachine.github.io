@@ -19,6 +19,7 @@ gem "minima"
 gem "github-pages", group: :jekyll_plugins
 gem 'coveralls', require: false
 gem "html-proofer"
+gem "codeclimate-test-reporter", group: :test, require: nil
 
 # If you have any plugins, put them here!
 #group :jekyll_plugins do
