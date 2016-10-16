@@ -24,9 +24,7 @@
 			        
 				    <h4>{{member.name}}</h4>
 				
-				    <img style="width:200px;height:200px;" src="{% if member.picture != null %}/img/membres/{{member.picture}}
-				              {% else %}/img/membres/unknown.png{% endif %}"
-				              alt="Oh no we didnt find the image that goes here :( ">
+				    <img style="width:200px;height:200px;" src="{% if member.picture != null %}/img/membres/{{member.picture}}{% else %}/img/membres/unknown.png{% endif %}"alt="Oh no we didnt find the image that goes here :( ">
 			    </div>
 		    {% endfor %}
 		</div>
