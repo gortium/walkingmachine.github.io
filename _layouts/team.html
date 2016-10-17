@@ -1,8 +1,8 @@
 {% include header.html %}
 <section id="main" class="container">
-    
-    
-    
+
+
+
     <header>
     <h2>{{page.Title}}</h2>
     <p>{{page.subTitle}}</p>
@@ -12,19 +12,25 @@
   <div class="box">
     <span class="image featured"><img src="{% if page.image != null %}{{page.image}}{% else %}/img/sara/team_banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>
 
-	
+
   	{% for team in site.data.members.team %}
   		<div class="row">
   		<b><h3>{{team.name[page.lang]}}</h3></b>
   		</div>
-  		
+
   		<div class="row">
 		    {% for member in team.membres %}
 			    <div style="vertical-align:bottom">
-			        
+
 				    <h4>{{member.name}}</h4>
-				
+
 				    <img style="width:200px;height:200px;" src="{% if member.picture != null %}/img/membres/{{member.picture}}{% else %}/img/membres/unknown.png{% endif %}"alt="Oh no we didnt find the image that goes here :( ">
+            {% if member.poste[page.lang] != null %}
+              <p>{{member.poste[page.lang]}}</p>
+            {% else %}
+              <p style="height:35px"> </p>
+            {% endif %}
+
 			    </div>
 		    {% endfor %}
 		</div>
