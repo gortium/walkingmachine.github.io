@@ -1,56 +1,87 @@
 team:
-  admin:
+  - admin:
     name:
       FR: "Administration"
       EN: "Administration"
     membres:
-      jo:
+      - jo:
         name: "Jonathan Fortin"
         poste:
           FR: "Capitaine"
           EN: "Captain"
-      cass:
-        name: "Cassandra Lépine"
-        poste:
-          FR: "Trésorière"
-          EN: "Treasurer"
-      jeff:
+        picture: Jonathan_Fortin.jpg
+      - jeff:
         name: "Jeffrey Cousineau"
         poste:
           FR: "Co-Capitaine"
           EN: "Co-Captain"
-  mec:
+        picture: Jeffrey_Cousineau.jpg
+      - cass:
+        name: "Cassandra Lépine"
+        poste:
+          FR: "Trésorière"
+          EN: "Treasurer"
+        picture: Cassandra_Lepine.jpg
+
+  - mec:
     name:
       FR: "Mécanique"
       EN: "Mecanical"
     membres:
-      doyle:
+      - doyle:
         name: "Alexandra Doyle"
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
-      martin:
+        picture: Alexandre_Doyle.jpg
+      - lmartin:
         name: "Louis-Martin Caron"
-  log:
+        picture: Louis-Martin_Caron.jpg
+      - louischarle:
+        name: "Louis-Charle Labarre"
+      - alain:
+        name: "Alain Amoun"
+  - log:
     name:
       FR: "Logiciel"
       EN: "Software"
     membres:
-      max:
+      - max:
         name: "Maxime St-Pierre"
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
+      - greg:
         name: "Francis Grégoire"
-  ele:
+      - poup:
+        name: "Thierry Pouplier"
+        picture: Thierry_Pouplier.jpg
+      - otis:
+        name: "Samuel Otis"
+        picture: Samuel_Otis.jpg
+      - PhilLM:
+        name: "Philippe La Madelaine"
+      - Daringdan:
+        name: "Daniel Sami"
+      - Alois:
+        name: "Aloïs Goudard-Bellissens"
+      - Lucas:
+        name: "Lucas Maurice"
+  - ele:
     name:
       FR: "Électrique"
       EN: "Electric"
     membres:
-      jimmy:
-        name: "Jimmy Poirier"
+      - alex:
+        name: "Alexandre Chartrand"
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
-      alex:
-        name: "Alexandre Chartrand"
+        picture: Alexandre_Chartrand.jpg
+      - jimmy:
+        name: "Jimmy Poirier"
+        picture: Jimmy_Poirier.jpg
+      - red1:
+        name: "Redouane Laref"
+      - salco:
+        name: "Alexandre Salconi-denis"

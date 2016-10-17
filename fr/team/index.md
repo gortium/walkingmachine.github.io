@@ -1,11 +1,11 @@
 ---
-Title: "Our team"
-subTitle: "Hi everyone, if you see us somewhere feel free to say hi, we usally dont bite"
-layout: generic
+Title: "Notre équipe"
+subTitle: "Bonjour à tous, si vous nous croisez, n'hésitez pas à nous dire bonjour, normalement nous ne mordons pas"
+layout: team
 lang: FR
 ref: team
-image:
+image: /img/sara/team_banner.jpg
 ---
 
 ## Oh no :(
-We are sorry but this is still under construction
+Nous sommes désolé mais nous sommes toujours en construction.
