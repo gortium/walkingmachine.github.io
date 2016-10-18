@@ -4,12 +4,13 @@ subTitle: "Our day to day project we work on"
 layout: generic
 lang: EN
 ref: project
-image: "/img/banner_project.png"
+image: "/img/project_banner.png"
 ---
 
 ## S.A.R.A
 Since the beginning of is participation in the [Robocup@Home](http://www.robocupathome.org/) toornament, our team has made multiple advancement on our lovely S.A.R.A, french for Autonomus robotics assistance system. Her main goal is to be able to help people at home for day to day task, our task is to make her the must fonctionnal doing her work.
 
+## Our projects
 To accomplish this really big project we have divided our entire group in different [team](/en/team) with each their own project. Most of then vary every year. For this year here are the most important project by departement :
 
 # [Mecanic](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+MEC%22)
