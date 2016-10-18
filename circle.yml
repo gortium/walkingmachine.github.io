@@ -1,0 +1,8 @@
+machine:
+  ruby:
+    version: rbx-2.2.5
+
+test:
+  post:
+    - bundle exec jekyll build
+    - bundle exec htmlproofer ./_site --disable-external
