@@ -1,6 +1,6 @@
 ---
 Title: "Our team"
-subTitle: "Hi everyone, if you see us somewhere feel free to say hi, we usally dont bite"
+subTitle: "Hi everyone, if you see us somewhere feel free to say hi, we usally don't bite"
 layout: team
 lang: EN
 ref: team
