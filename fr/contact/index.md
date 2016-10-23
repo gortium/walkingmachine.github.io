@@ -3,7 +3,12 @@ Title: Nous contacter
 layout: contact
 lang: FR
 ref: contact
+street: 1100 rue Notre-Dame Ouest, Montreal, QC, H3C 1K3
+phone: +1-514-396-8800 #7408
+email: walking@ens.etsmtl.ca
+room: A-1728 (corridor des clubs)
 ---
 
-## Nous contacter!!
-Il est toujours possible de nous rejoindre par courriel grace au formulaire ci dessous pour toute question. Nous sommes aussi rejoignable par téléphone au 514-555-8888.
+## Contactez-nous
+
+

@@ -1,10 +1,15 @@
 {% include header.html %}
 <section id="main" class="container">
   <header>
-    {{content}}
+        {{content}}
+        <hr>
+        <h4><b>{{page.street}}</b></h4>
+        <h1><b>{% if {{page.lang}} == "FR" %}Téléphone:{% else %}Phone:{% endif %} </b> {{page.phone}}</h1>
+        <h1><b>{% if {{page.lang}} == "FR" %}Courriel:{% else %}Email:{% endif %} </b> {{page.email}}</h1>
+        <h1><b>{% if {{page.lang}} == "FR" %}Salle:{% else %}Room:{% endif %} </b> {{page.room}}</h1>
   </header>
   <div class="box">
-    <form method="post" action="http://formspree.io/walkingmachine@gmail.com">
+    <form method="post" action="http://formspree.io/walking@ens.etsmtl.ca">
       <div class="row uniform 50%">
         <div class="6u 12u(mobilep)">
           <input type="text" name="name" id="name" value="" placeholder="Name" />
