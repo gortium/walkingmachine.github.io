@@ -3,10 +3,16 @@
   <header>
         {{content}}
         <hr>
-        <h4><b>{{page.street}}</b></h4>
-        <h1><b>{% if {{page.lang}} == "FR" %}Téléphone:{% else %}Phone:{% endif %} </b> {{page.phone}}</h1>
-        <h1><b>{% if {{page.lang}} == "FR" %}Courriel:{% else %}Email:{% endif %} </b> {{page.email}}</h1>
-        <h1><b>{% if {{page.lang}} == "FR" %}Salle:{% else %}Room:{% endif %} </b> {{page.room}}</h1>
+        <h4><b>{{site.street}}</b></h4>
+        {% if page.lang == "FR" %}
+        <h1><b>Téléphone:</b> {{site.phone}} </h1>
+        <h1><b>Courriel:</b> {{site.email}}</h1>
+        <h1><b>Salle:</b> {{site.room[page.lang]}}</h1>
+        {% else %}
+        <h1><b>Phone:</b> {{site.phone}} </h1>
+        <h1><b>Email:</b> {{site.email}}</h1>
+        <h1><b>Room:</b> {{site.room[page.lang]}}</h1>
+        {% endif %}
   </header>
   <div class="box">
     <form method="post" action="http://formspree.io/walking@ens.etsmtl.ca">
