@@ -22,6 +22,10 @@ team:
           FR: "Trésorière"
           EN: "Treasurer"
         picture: Cassandra_Lepine.jpg
+      - laurence:
+        name: "Laurence L. Gendron"
+      - viviane:
+        name: "Viviane Catineau"
 
   - mec:
     name:
@@ -29,7 +33,7 @@ team:
       EN: "Mecanical"
     membres:
       - doyle:
-        name: "Alexandra Doyle"
+        name: "Alexandre Doyle"
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
@@ -41,6 +45,13 @@ team:
         name: "Louis-Charle Labarre"
       - alain:
         name: "Alain Amoun"
+      - philippe:
+        name: "Philippe Lemay-Hardy"
+      - marc:
+        name: "Marc Bahna"
+      - jade:
+        name: "Jade Doucet-Martineau"
+      
   - log:
     name:
       FR: "Logiciel"
@@ -67,6 +78,20 @@ team:
         name: "Aloïs Goudard-Bellissens"
       - Lucas:
         name: "Lucas Maurice"
+      - Leonore:
+        name: "Léonore Jean-François"
+      - Gabriel:
+        name: "Gabriel Bérubé"
+      - Steve:
+        name: "Steve Loic Kamwa Moghom"
+      - Xavier:
+        name: "Gelin Xavier Takam"
+      - Antoine:
+        name: "Antoine De Villers"
+      - Alexandre:
+        name: "Alexandre Bernier"
+      - Julien:
+        name: "Julien Côté"
   - ele:
     name:
       FR: "Électrique"
@@ -85,3 +110,5 @@ team:
         name: "Redouane Laref"
       - salco:
         name: "Alexandre Salconi-denis"
+      - celia:
+        name: "Célia-Nour Mahrour Venturelli"
