@@ -7,6 +7,11 @@ jekyll-mentions:
   base_url: https://twitter.com
 exclude: ['README.md','CNAME','vendor','Gemfile','Gemfile.lock']
 markdown: kramdown
+street: 1100 rue Notre-Dame Ouest, Montreal, QC, H3C 1K3
+phone: +1-514-396-8800 #7408
+room:
+  FR: "A-1728 (corridor des clubs)"
+  EN: "A-1728 (club's hallway)"
 gems:
   - jekyll-feed
 
