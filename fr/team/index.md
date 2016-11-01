@@ -4,7 +4,7 @@ subTitle: "Bonjour à tous, si vous nous croisez, n'hésitez pas à nous dire bo
 layout: team
 lang: FR
 ref: team
-image: /img/sara/team_banner.jpg
+image: /sara/team_banner.jpg
 ---
 
 ## Oh no :(

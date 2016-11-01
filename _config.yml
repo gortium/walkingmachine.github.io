@@ -2,6 +2,7 @@ title: Walking Machine
 email: walking@ens.etsmtl.ca
 twitter_username: WM_ETS
 github_username: wmets
+CDN_url: http://wcdn.walkingmachine.ca/
 theme: minima
 jekyll-mentions:
   base_url: https://twitter.com
