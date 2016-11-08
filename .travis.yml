@@ -13,9 +13,9 @@ sudo: false
 
 branches:
   only:
-    - /feature_(.*)/
-    - /page_(.*)/
-    - /update_(.*)/
+    - /feature[\/ -_](.*)/
+    - /page[\/ -_](.*)/
+    - /update[\/ -_](.*)/
 
 notifications:
   slack:
