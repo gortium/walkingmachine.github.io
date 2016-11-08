@@ -10,7 +10,7 @@
 
   </header>
   <div class="box">
-    <span class="image featured"><img src="{% if page.image != null %}{{page.image}}{% else %}/img/sara/team_banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>
+    <span class="image featured"><img src="{% if page.image != null %}{{site.CDN_url}}{{page.image}}{% else %}/img/sara/team_banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>
 
 
   	{% for team in site.data.members.team %}
@@ -24,7 +24,7 @@
 
 				    <h4>{{member.name}}</h4>
 
-				    <img style="width:200px;height:200px;" src="{% if member.picture != null %}/img/membres/{{member.picture}}{% else %}/img/membres/unknown.png{% endif %}"alt="Oh no we didnt find the image that goes here :( ">
+				    <img style="width:200px;height:200px;" src="{% if member.picture != null %}{{site.CDN_url}}/membres/{{member.picture}}{% else %}{{site.CDN_url}}/membres/unknown.png{% endif %}"alt="Oh no we didnt find the image that goes here :( ">
             {% if member.poste[page.lang] != null %}
               <p>{{member.poste[page.lang]}}</p>
             {% else %}
@@ -38,6 +38,7 @@
 	{% endfor %}
   </div>
 
-
 </div>
+</section>
+
 {% include footer.html %}

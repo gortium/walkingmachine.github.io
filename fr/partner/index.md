@@ -1,11 +1,10 @@
 ---
-Title: "Partner"
-subTitle: "If your name is here then you are really helpfull to us"
+Title: "Partenaires"
+subTitle: "Merci de nous aider à atteindre nos rêves"
 layout: generic
 lang: FR
 ref: partner
-image:
+image: /sara/partner.jpg
 ---
 
-## Oh no :(
-We are sorry but this is still under construction
+Pour des demandes de partenariat, contactez-nous au walking@ens.etsmtl.ca
