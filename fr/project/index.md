@@ -4,7 +4,7 @@ subTitle: "Nos plans et projets de tous les jours"
 layout: generic
 lang: FR
 ref: project
-image: "/img/project_banner.png"
+image: "/banner/project.png"
 ---
 
 ## S.A.R.A

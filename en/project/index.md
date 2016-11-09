@@ -4,7 +4,7 @@ subTitle: "Our day to day project we work on"
 layout: generic
 lang: EN
 ref: project
-image: "/img/project_banner.png"
+image: "/banner/project.png"
 ---
 
 ## S.A.R.A
