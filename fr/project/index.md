@@ -10,23 +10,23 @@ image: "/banner/project.png"
 ## S.A.R.A
 Depuis le début de sa participation à la [Robocup@Home](http://www.robocupathome.org/), notre équipe a fait de multiples avancements sur notre belle S.A.R.A (Système d’Assistance Robotique Autonome). Sa tache est simple, venir en aide avec les tâches quotidiennes de tous à la maison. Notre tâche par contre est beaucoup plus complexe, la rendre le plus fonctionnelle possible dans les différentes tâches qui peuvent lui être donné.
 
-##Nos projets
+## Nos projets
 Pour accomplir ce merveilleux projet, nous avons séparé notre équipe en différent [groupe](/fr/team) avec chacun leurs projets dédiés. Ceux-ci varient d’année en année. Cette année, les plus importants sont les suivants dans chaque département :
 
 
-#[Mecanique](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+MEC%22)
+# [Mecanique](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+MEC%22)
 
 * Optimizer le bas de la structure
 * Concevoir un nouvel espace pour l’ordi principal
 * Améliorer l’organisation de l’espace à l’intérieur du robot
 
-#[Electrique](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+%C3%89L%C3%89%22)
+# [Electrique](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+%C3%89L%C3%89%22)
 
 * Implémenter le protocole CanOpen pour la communication avec la majorité des pièces composantes S.A.R.A
 * Optimizer le câblage interne
 * Concevoir un système de localisation du son
 
-#[Logiciel](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+LOG%22)
+# [Logiciel](https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+LOG%22)
 
 * Implémenter la détection d’objet 3D
 * Implémenter la détection d’expression faciale
