@@ -30,7 +30,7 @@ Pour accomplir ce merveilleux projet, nous avons séparé notre équipe en diff�
 
 * Implémenter la détection d’objet 3D
 * Implémenter la détection d’expression faciale
-* Optimizer nos packages ROS pour avoir une meilleure couverture de code
+* Optimiser nos packages ROS pour avoir une meilleure couverture de code
 
 Tous nos projets sont libres d’accès sur [GitHub](https://github.com/WalkingMachine) et sont tous sous licence MIT logiciel libre. N’hésité pas d’y faire un tour pour regarder notre progression ou d’y poser des questions. Nous sommes toujours heureux d’offrir notre aide ou d’en recevoir. Qui sait, nous finirons peut-être par nous aider pour concevoir le prochain robot le plus important !
 
