@@ -8,10 +8,13 @@ image: "/banner/aboutus.jpg"
 ---
 
 ## SOCIAL MISSION
-The club Walking Machine is before all a way to learn. Through their participation in the activities of the club, members acquire knowledge in the fields of engineering related to their. The nature of the competition in which the club participated, It has an important social mission: assistance to persons with reduced mobility. It is developing robots capable of performing simple household tasks that we want to improve the lot of our elders. On another level, the contribution of the youth club is just as important. With various events for the promotion of Robotics, an interest to continue in the area is found in young people in college and secondary schools.
+
+The Walking Machine club is, before everything, a way to learn. Its members gain knowledge through practice in the different spheres of ingeeneering. The scientific club has also a social mission, to help citizen with reduced mobility, due to the nature of the competition in which it participates. By developping robots able to accomplish simple domestic tasks, we seek to make life easier for our elders. On another level, we also want to inspire youth, by showing up to diverse promotional events in highschool and colleges. 
 
 ## PHILOSOPHY
-The club has a very important philosophy of openness. Indeed, any tool or free software is recommended when technical options. This choice is motivated by the hope of universal sharing of knowledge. Interdisciplinary collaboration is also strongly encouraged. This leads to develop more knowledge and brings a knowledge of related fields which, otherwise, would that inaccessible. The members are not separated by discipline, but instead distributed according to different projects. All ideas are considered.
+
+The club s most important philosophy might be his open mindness. In fact, any open source tool is going to be used before private ones. This choice is motivated by the hope of sharing universal knowledge. Interdiciplinarian collaboration is also highly recommended. This helps to developp knowledge to the largest amount of people in connex fields, which would otherwise be almost unaccesible. Our team members are not separated by disciplins, but by projects, and everyone s ideas are considered. 
 
 ## ORIGINS
-The club Walking Machine takes its origins in its participation in the SAE Walking Machine competition. He participated in the competition for more than ten years. The club was founded in 1995 and has, Since its foundation, designed the entire creation and design of an autonomous mobile robot. The club is the oldest Club of Robotics still function to this day at ETS. Through the years and the changes in competition, the club has evolved, but still retains the same innovative spirit.
+
+The Walking Machine club use to participate in the SAE Walking Machine competition. We participated in the competition for more than ten years. The club was founded in 1995 and has ever since had the goal the entire design of a mobile autonomous robot. It is probably the oldest robotic club still functional at the ETS University. Through years and different competitions, the club has evolved greatly, but its innovative spirit remains.
