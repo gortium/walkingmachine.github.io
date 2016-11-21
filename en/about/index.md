@@ -13,7 +13,9 @@ The Walking Machine club is, before everything, a way to learn. Its members gain
 
 ## PHILOSOPHY
 
-The club s most important philosophy might be his open mindness. In fact, any open source tool is going to be used before private ones. This choice is motivated by the hope of sharing universal knowledge. Interdiciplinarian collaboration is also highly recommended. This helps to developp knowledge to the largest amount of people in connex fields, which would otherwise be almost unaccesible. Our team members are not separated by disciplins, but by projects, and everyone s ideas are considered. 
+The clubs philosophy is being open to give back to the community. In fact, we will use free software before using proprietary software to accomplish our goals. This choice is motivated by the hope of sharing universal knowledge. We are also a multidisciplinary team with a divers background. This helps us build the best robot possible using a multitude of technologies. This helps to developp knowledge to the largest amount of people in connex fields, which would otherwise be almost unaccesible. Our team members are not separated by disciplins, but by projects, and everyone's ideas are considered. 
+
+
 
 ## ORIGINS
 
