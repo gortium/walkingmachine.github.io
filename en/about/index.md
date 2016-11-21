@@ -9,7 +9,7 @@ image: "/banner/aboutus.jpg"
 
 ## SOCIAL MISSION
 
-The Walking Machine club is, before everything, a way to learn. Its members gain knowledge through practice in the different spheres of ingeeneering. The scientific club has also a social mission, to help citizen with reduced mobility, due to the nature of the competition in which it participates. By developping robots able to accomplish simple domestic tasks, we seek to make life easier for our elders. On another level, we also want to inspire youth, by showing up to diverse promotional events in highschool and colleges. 
+The Walking Machine club is, before everything, a way to learn. Its members gain knowledge through practice in the different fields of ingeeneering. The scientific club has also a social mission, to help citizen with reduced mobility, due to the nature of the competition in which it participates. By developping robots able to accomplish simple domestic tasks, we seek to make life easier for our elders. On another level, we also want to inspire youth, by showing up to diverse promotional events in highschool and colleges. 
 
 ## PHILOSOPHY
 
