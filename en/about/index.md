@@ -19,4 +19,4 @@ The clubs philosophy is being open to give back to the community. In fact, we wi
 
 ## ORIGINS
 
-The Walking Machine club use to participate in the SAE Walking Machine competition. We participated in the competition for more than ten years. The club was founded in 1995 and has ever since had the goal the entire design of a mobile autonomous robot. It is probably the oldest robotic club still functional at the ETS University. Through years and different competitions, the club has evolved greatly, but its innovative spirit remains.
+The Walking Machine club used to participate in the SAE Walking Machine Student Collegiate Design Series. The club was founded in 1995. The original goal of the club was to build an autonomous robot. We are one of the oldest robotic club at ÉTS. Through out the years and different competitions, the club evolved greatly, but its innovative spirit remains.
