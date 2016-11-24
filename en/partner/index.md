@@ -8,4 +8,4 @@ image: /sara/partner.jpg
 ---
 
 For partnership inquiries contact us at walking@ens.etsmtl.ca.
-See our [partnership document](https://wcdn.walkingmachine.ca/documents/Walking_Machine_Partnership.pdf) for more informations
+See our [partnership document](https://wcdn.walkingmachine.ca/documents/Walking_Machine_Partnership.pdf)(9 MB) for more informations
