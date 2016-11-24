@@ -7,4 +7,4 @@ ref: partner
 image: /sara/partner.jpg
 ---
 
-Pour des demandes de partenariat, contactez-nous au walking@ens.etsmtl.ca. Téléchargez notre [document de partenariat](https://wcdn.walkingmachine.ca/documents/Walking Machine - Partnership Document.pdf) pour plus d'informations.
+Pour des demandes de partenariat, contactez-nous au walking@ens.etsmtl.ca. Téléchargez notre [document de partenariat](https://wcdn.walkingmachine.ca/documents/Walking Machine - Document de Partenariat.pdf) pour plus d'informations.
