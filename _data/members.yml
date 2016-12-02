@@ -27,7 +27,7 @@ team:
         poste:
           FR: "Directeur évènement"
           EN: "Event manager"
-        picture: Lucas_Maurie.jpg
+        picture: Lucas_Maurice.jpg
       - laureline:
         name: "Laureline Estivalet"
         poste:
@@ -58,7 +58,7 @@ team:
         name: "Jade Doucet-Martineau"
       - Alois:
         name: "Aloïs Goudard-Bellissens"
-        picture: Alois_Goudard-Bellisens.jpg
+        picture: Alois_Goudard_Bellisens.jpg
       - Leonore:
         name: "Léonore Jean-François"
 
