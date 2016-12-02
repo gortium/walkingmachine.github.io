@@ -22,10 +22,18 @@ team:
           FR: "Trésorière"
           EN: "Treasurer"
         picture: Cassandra_Lepine.jpg
-      - laurence:
-        name: "Laurence L. Gendron"
-      - viviane:
-        name: "Viviane Catineau"
+      - Lucas:
+        name: "Lucas Maurice"
+        poste:
+          FR: "Directeur évènement"
+          EN: "Event manager"
+        picture: Lucas_Maurice.jpg
+      - laureline:
+        name: "Laureline Estivalet"
+        poste:
+          FR: "VP commandite"
+          EN: "VP sponsorship"
+        picture: Laureline_Estivalet.jpg
 
   - mec:
     name:
@@ -40,18 +48,20 @@ team:
         picture: Alexandre_Doyle.jpg
       - lmartin:
         name: "Louis-Martin Caron"
-        picture: Louis-Martin_Caron.jpg
+        picture: Louis_Martin_Caron.jpg
       - louischarle:
         name: "Louis-Charle Labarre"
+        picture: Louis_Charle_Labarre.jpg
       - alain:
         name: "Alain Amoun"
-      - philippe:
-        name: "Philippe Lemay-Hardy"
-      - marc:
-        name: "Marc Bahna"
       - jade:
         name: "Jade Doucet-Martineau"
-      
+      - Alois:
+        name: "Aloïs Goudard-Bellissens"
+        picture: Alois_Goudard_Bellisens.jpg
+      - Leonore:
+        name: "Léonore Jean-François"
+
   - log:
     name:
       FR: "Logiciel"
@@ -64,6 +74,7 @@ team:
           EN: "Team leader"
       - greg:
         name: "Francis Grégoire"
+        picture: Francis_Gregoire.jpg
       - poup:
         name: "Thierry Pouplier"
         picture: Thierry_Pouplier.jpg
@@ -74,24 +85,10 @@ team:
         name: "Philippe La Madelaine"
       - Daringdan:
         name: "Daniel Sami"
-      - Alois:
-        name: "Aloïs Goudard-Bellissens"
-      - Lucas:
-        name: "Lucas Maurice"
-      - Leonore:
-        name: "Léonore Jean-François"
-      - Gabriel:
-        name: "Gabriel Bérubé"
-      - Steve:
-        name: "Steve Loic Kamwa Moghom"
-      - Xavier:
-        name: "Gelin Xavier Takam"
-      - Antoine:
-        name: "Antoine De Villers"
-      - Alexandre:
-        name: "Alexandre Bernier"
+        picture: Daniel_Sami.jpg
       - Julien:
         name: "Julien Côté"
+
   - ele:
     name:
       FR: "Électrique"
@@ -110,5 +107,6 @@ team:
         name: "Redouane Laref"
       - salco:
         name: "Alexandre Salconi-denis"
+        picture: Alexandre_Salconi_Denis.jpg
       - celia:
         name: "Célia-Nour Mahrour Venturelli"
