@@ -1,0 +1,24 @@
+{% include header.html %}
+<section id="main" class="container">
+  <header>
+    <h2>{{page.Title}}</h2>
+    <p>{{page.subTitle}}</p>
+  </header>
+  <div class="box">
+    <span class="image featured"><img src="{% if page.image != null %} {{site.CDN_url}}{{page.image}} {% else %}{{site.CDN_url}}/theme/banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>
+  {{ content }}
+
+  {% assign posts=site.posts | where:"lang", page.lang %}
+
+  {% for post in posts %}
+      <div class="row">
+        <b><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></b>
+        <p>{{ post.resume }}</p>
+      </div>
+  {% endfor %}
+  </ul>
+
+
+  </div>
+</section>
+{% include footer.html %}
