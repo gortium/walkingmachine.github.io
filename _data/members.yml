@@ -61,6 +61,9 @@ team:
         picture: Alois_Goudard_Bellisens.jpg
       - Leonore:
         name: "Léonore Jean-François"
+      - quentin:
+        name: "Quentin Bourret"
+        picture: Quentin_Bourret.jpg
 
   - log:
     name:
@@ -83,6 +86,7 @@ team:
         picture: Samuel_Otis.jpg
       - PhilLM:
         name: "Philippe La Madelaine"
+        picture: Philippe_La_Madelaine.jpg
       - Daringdan:
         name: "Daniel Sami"
         picture: Daniel_Sami.jpg
@@ -105,6 +109,7 @@ team:
         picture: Jimmy_Poirier.jpg
       - red1:
         name: "Redouane Laref"
+        picture: Redouane_Laref.jpg
       - salco:
         name: "Alexandre Salconi-denis"
         picture: Alexandre_Salconi_Denis.jpg
