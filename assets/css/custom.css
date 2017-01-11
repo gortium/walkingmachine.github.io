@@ -1,3 +1,15 @@
 .h300 {
   height: 300px;
 }
+
+@media only screen and (max-width : 840px){
+    .btn-mobile-visible{
+        visibility: visisble
+    };
+}
+
+@media only screen and (min-width: 841px) {
+    .btn-mobile-visible{
+        visibility: hidden;
+    };
+}
