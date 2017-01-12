@@ -1,0 +1,18 @@
+{% include header.html %}
+
+<section id="main" class="container">
+    <header>
+        <h2>{{page.Title}}</h2>
+        <p>{{page.subTitle}}</p>
+    </header>
+    <div class="box">
+        <div class="row">
+            <b><h3>Competition en allemagne</h3></b>
+        </div>
+        {% assign sorted_photos = site.photo_gallery | sort: "weight" %}
+        <ul class="photo-gallery">
+            {% for image in sorted_photos %}
+            <li><img src="{{ site.CDN_url }}{{ image.image_url }}" alt="{{ image.title}}"/></li>
+            {% endfor %}
+        </ul>
+    </div>
