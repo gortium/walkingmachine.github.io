@@ -21,6 +21,13 @@
 					{% endif %}
 					<nav id="nav">
 						<ul>
+                            <li class="btn-mobile-visible">
+                                {% if page.lang=="FR" %}
+                      						<h1><a href="/fr" class="button">Accueil</a>
+                      					{% else %}
+                      						<h1><a href="/" class="button">Home</a>
+                      					{% endif %}
+                            </li>
               {% for menu in site.t[page.lang] %}
                 {% if menu[1].sub_m == null %}
                   <li><a href="{{ menu[1].url }}" class="button">{{ menu[1].name }}</a></li>
