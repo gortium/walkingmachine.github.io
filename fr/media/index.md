@@ -1,6 +1,6 @@
 ---
 Title: "Media"
-subTitle: "We like video and picture :)"
+subTitle: "Comme on dit, une photo vaut mille mots :)"
 layout: media
 lang: FR
 ref: media
