@@ -23,6 +23,9 @@ collections:
 
 t:
   EN:
+    donate:
+        name: "Donate"
+        url: "https://www.jedonneenligne.org/fdets/CSC/"
     about:
       name: "About"
       url: "/en/about"
@@ -52,6 +55,9 @@ t:
       name: "Contact-us"
       url: "/en/contact"
   FR:
+    donate:
+        name: "Faire un don"
+        url: "https://www.jedonneenligne.org/fdets/CSC/"
     about:
       name: "À propos"
       url: "/fr/about"
