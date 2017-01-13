@@ -15,6 +15,11 @@ room:
   EN: "A-1728 (club's hallway)"
 gems:
   - jekyll-feed
+  - jemoji
+
+collections:
+  photo_gallery:
+      allemagne:
 
 t:
   EN:

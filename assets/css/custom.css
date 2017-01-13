@@ -2,6 +2,20 @@
   height: 300px;
 }
 
+
+.photo-gallery, .photo-gallery li {
+	list-style: none;
+	padding: 0;
+}
+
+.photo-gallery li {
+	display: inline-block;
+	width: 33%;
+}
+
+.photo-gallery li img {
+	width: 100%;
+
 @media only screen and (max-width : 840px){
     .btn-mobile-visible{
         visibility: visisble
@@ -12,4 +26,5 @@
     .btn-mobile-visible{
         visibility: hidden;
     };
+
 }
