@@ -19,4 +19,4 @@ Afin de pouvoir amener Sara au Japon, il faut tout d’abord qu’elle impressio
 3.	Répondre à des commandes vocales
 4.	Reconnaissance faciale
 5.	Interaction humaine
-####Sur ce, AU TRAVAIL!
+#### Sur ce, AU TRAVAIL!
