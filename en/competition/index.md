@@ -7,11 +7,11 @@ ref: competition
 image: "/banner/competition.jpg"
 ---
 
-After participating for many years in the Walking Machine SAE and the Eurobot competitions subsequently, since 2016, we are competing in the Robocup@Home international competition.
+After participating for many years in the Walking Machine SAE and the Eurobot competitions subsequently, since 2016, we are competing in the RoboCup@Home international competition.
 
-## Robocup@Home summarized
+## RoboCup@Home summarized
 
-RoboCup-at-Home is held during Robocup, the most important robotics competition in the world. The latter also showcases the Soccer, Rescue, and Junior branches. This event, held once a year, brings together universities and colleges from around the world.
+RoboCup-at-Home is held during RoboCup, the most important robotics competition in the world. The latter also showcases the Soccer, Rescue, and Junior branches. This event, held once a year, brings together universities and colleges from around the world.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/YpjeNa8BAYg" frameborder="0" allowfullscreen></iframe></center><br>
 RoboCup@Home aims to develop robots for personal assistance with the aim of creating the perfect assistant in everyday tasks. To find the best robots, the teams make their robot do a series of tests to measure their skills and performance in an domestic environment. The main fields of development are: human-machine interaction and cooperation, dynamic environmental navigation and mapping, computer vision and objects recognition under different light, objects manipulation and artificial intelligence.
