@@ -5,7 +5,7 @@ lang: FR
 ref: blog
 image: "https://drive.google.com/file/d/0B4wrVuOpLNOYVWgwYWE5dFE5bFE/view?usp=sharing"
 ---
-Samedi, 2 février,
+Samedi, 4 février,
 
 Le dev day Walking est lancé! Cette fin de semaine, l’équipe Walking Machine début le tournage de sa vidéo de qualification pour la RoboCup@Home au [Palais des congrès](http://congresmtl.com/) de Montréal. Dès 7h du matin, on a pu trouver des courageux lèves-tôt près à attaquer la journée.
 ### La formule DEV DAY
