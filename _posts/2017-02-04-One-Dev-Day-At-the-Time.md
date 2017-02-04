@@ -5,7 +5,7 @@ lang: EN
 ref: post
 image: "https://drive.google.com/file/d/0B4wrVuOpLNOYVWgwYWE5dFE5bFE/view?usp=sharing"
 ---
-Saturday, Febuary 4
+Saturday, February 4
 
 The Walking Dev Day has officially kicked off! This Weekend, The Walking Machine Robotics team begins to film its qualification video for the RoboCup@Home Competition at the [Palais des congrès](http://congresmtl.com/). Some early birds arrived at 7AM, ready for a busy work day.
 
