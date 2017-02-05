@@ -4,37 +4,33 @@ team:
       FR: "Administration"
       EN: "Administration"
     membres:
-      - jo:
-        name: "Jonathan Fortin"
-        poste:
-          FR: "Capitaine"
-          EN: "Captain"
-        picture: Jonathan_Fortin.jpg
-      - jeff:
-        name: "Jeffrey Cousineau"
+      - poup:
+        name: "Thierry Pouplier"
+        picture: Thierry_Pouplier.jpg
         poste:
           FR: "Co-Capitaine"
           EN: "Co-Captain"
+      - jeff:
+        name: "Jeffrey Cousineau"
         picture: Jeffrey_Cousineau.jpg
+        poste:
+          FR: "Capitaine"
+          EN: "Captain"
       - cass:
         name: "Cassandra Lépine"
         poste:
           FR: "Trésorière"
           EN: "Treasurer"
         picture: Cassandra_Lepine.jpg
-      - Lucas:
-        name: "Lucas Maurice"
-        poste:
-          FR: "Directeur évènement"
-          EN: "Event manager"
-        picture: Lucas_Maurice.jpg
       - laureline:
         name: "Laureline Estivalet"
         poste:
-          FR: "VP commandite"
-          EN: "VP sponsorship"
+          FR: "Responsable Communication"
+          EN: "Public relation"
         picture: Laureline_Estivalet.jpg
-
+      - jo:
+        name: "Jonathan Fortin"
+        picture: Jonathan_Fortin.jpg
   - mec:
     name:
       FR: "Mécanique"
@@ -52,10 +48,6 @@ team:
       - louischarle:
         name: "Louis-Charle Labarre"
         picture: Louis_Charle_Labarre.jpg
-      - alain:
-        name: "Alain Amoun"
-      - jade:
-        name: "Jade Doucet-Martineau"
       - Alois:
         name: "Aloïs Goudard-Bellissens"
         picture: Alois_Goudard_Bellisens.jpg
@@ -78,9 +70,6 @@ team:
       - greg:
         name: "Francis Grégoire"
         picture: Francis_Gregoire.jpg
-      - poup:
-        name: "Thierry Pouplier"
-        picture: Thierry_Pouplier.jpg
       - otis:
         name: "Samuel Otis"
         picture: Samuel_Otis.jpg
@@ -92,21 +81,24 @@ team:
         picture: Daniel_Sami.jpg
       - Julien:
         name: "Julien Côté"
+      - Lucas:
+        name: "Lucas Maurice"
+        picture: Lucas_Maurice.jpg
 
   - ele:
     name:
       FR: "Électrique"
       EN: "Electric"
     membres:
-      - alex:
-        name: "Alexandre Chartrand"
-        poste:
-          FR: "Chef d'équipe"
-          EN: "Team leader"
-        picture: Alexandre_Chartrand.jpg
       - jimmy:
         name: "Jimmy Poirier"
         picture: Jimmy_Poirier.jpg
+        poste:
+          FR: "Chef d'équipe"
+          EN: "Team leader"
+      - alex:
+        name: "Alexandre Chartrand"
+        picture: Alexandre_Chartrand.jpg
       - red1:
         name: "Redouane Laref"
         picture: Redouane_Laref.jpg
