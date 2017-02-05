@@ -8,4 +8,4 @@ image: /sara/team_banner.jpg
 ---
 
 ## Oh no :(
-Nous sommes désolé mais nous sommes toujours en construction.
+Nous sommes désolés mais nous sommes toujours en construction.

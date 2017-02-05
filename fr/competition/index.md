@@ -7,11 +7,11 @@ ref: competition
 image: "/banner/competition.jpg"
 ---
 
-Après avoir participé pendant de nombreuse années à la compétition Walking Machine SAE et par la suite à l’Eurobot, nous participons depuis 2016 à la compétition internationale Robocup@Home.
+Après avoir participé pendant de nombreuse années à la compétition Walking Machine SAE et par la suite à l’Eurobot, nous participons depuis 2016 à la compétition internationale RoboCup@Home.
 
-## Robocup@Home en bref
+## RoboCup@Home en bref
 
-La compétition RoboCup@Home est une catégorie de la Robocup, la plus grande compétition de robotique au monde. Cette dernière présente également les catégories Soccer, Rescue et Junior. Cet événement, se tenant une fois par année, regroupe des équipes universitaires de partout dans le monde.
+La compétition RoboCup@Home est une catégorie de la RoboCup, la plus grande compétition de robotique au monde. Cette dernière présente également les catégories Soccer, Rescue et Junior. Cet événement, se tenant une fois par année, regroupe des équipes universitaires de partout dans le monde.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/YpjeNa8BAYg" frameborder="0" allowfullscreen></iframe></center><br>
 RoboCup@Home vise à développer des robots d’assistance personnelle dans le but de créer la parfaite aide à domicile dans les tâches de la vie quotidienne. Pour déterminer les meilleurs robots, les équipes font passer à leur robot une série d’épreuves afin de mesurer ses habiletés et performances dans un environnement simulant une maison. Les principaux axes de développement sont: l’interaction humain-machine et la coopération, la navigation et la cartographie en environnement dynamique, la vision par ordinateur et la reconnaissance d’objets sous différentes lumières, la manipulation d’objets et l’intelligence artificielle.

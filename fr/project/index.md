@@ -8,7 +8,7 @@ image: "/banner/project.png"
 ---
 
 ## S.A.R.A
-Depuis le début de sa participation à la [Robocup@Home](http://www.robocupathome.org/), notre équipe a fait de multiples avancements sur notre belle S.A.R.A (Système d’Assistance Robotique Autonome). Sa mission est simple, venir en aide dans les tâches quotidiennes de tous, à la maison. Notre travail, par contre, est beaucoup plus complexe, la rendre la plus fonctionnelle possible dans les différentes tâches qui peuvent lui être données.
+Depuis le début de sa participation à la [RoboCup@Home](http://www.robocupathome.org/), notre équipe a fait de multiples avancements sur notre belle S.A.R.A (Système d’Assistance Robotique Autonome). Sa mission est simple, venir en aide dans les tâches quotidiennes de tous, à la maison. Notre travail, par contre, est beaucoup plus complexe, la rendre la plus fonctionnelle possible dans les différentes tâches qui peuvent lui être données.
 
 ## Nos projets
 Pour accomplir ce merveilleux projet, nous avons séparé notre équipe en différents [groupes](/fr/team) avec chacun leurs projets dédiés, ceux-ci variant d’année en année. Cette année, les plus importants sont les suivants dans chaque département :
