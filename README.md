@@ -1,6 +1,6 @@
 # walkingmachine.github.io
 
-## Local developpement
+## Local Development
 1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
 2. Clone down your website `git clone https://github.com/WalkingMachine/walkingmachine.github.io.git`
 3. Serve the site and watch for markup/sass changes `jekyll serve`
