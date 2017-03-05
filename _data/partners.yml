@@ -1,0 +1,86 @@
+category:
+  - platinum:
+    name:
+      FR: "PLATINE"
+      EN: "PLATINUM"
+      COLOR: "#404040"
+    partners:
+      - part1:
+        name: "ÉTS"
+        link: "http://etsmtl.ca"
+        description:
+          FR: "École de technologie supérieure"
+          EN: "École de technologie supérieure"
+        picture: ets.jpg
+      - part2:
+        name: "Desjardins assurances"
+        link: "http://www.desjardins.com/"
+        description:
+          FR: "Desjardins assurances"
+          EN: "Desjardins insurance"
+        picture: desjardins.jpg
+      - part3:
+        name: "OVH"
+        link: "http://ovh.com/"
+        description:
+          FR: "OVH"
+          EN: "OVH"
+        picture: ovh.jpg
+      - part3:
+        name: "Robotiq"
+        link: "http://robotiq.com/"
+        description:
+          FR: "Robotiq"
+          EN: "Robotiq"
+        picture: robotiq.jpg
+      - part3:
+        name: "AÉÉTS"
+        link: "http://aeets.com/"
+        description:
+          FR: "Association étudiante de l'école de technologie supérieure"
+          EN: "Association étudiante de l'école de technologie supérieure"
+        picture: aeets.jpg
+
+  - gold:
+    name:
+      FR: "OR"
+      EN: "GOLD"
+      COLOR: "#FFBF00"
+    partners:
+      - part1:
+        name: "Globotech"
+        link: "https://www.globo.tech"
+        description:
+          FR: "Globotech"
+          EN: "Globotech"
+        picture: globotech.jpg
+
+
+  - silver:
+    name:
+      FR: "ARGENT"
+      EN: "SILVER"
+      COLOR: "#C0C0C0"
+    partners:
+
+
+  - bronze:
+    name:
+      FR: "BRONZE"
+      EN: "BRONZE"
+      COLOR: "#CD7F32"
+    partners:
+      - part1:
+        name: "CFML"
+        link: "http://www2.cslaval.qc.ca/metallurgie/"
+        description:
+          FR: "Centre de formation en métallurgie de laval"
+          EN: "Centre de formation en métallurgie de laval"
+        picture: cfml.jpg
+      - part2:
+        name: "Weidmuller"
+        link: "http://www.weidmuller.com/"
+        description:
+          FR: "Weidmüller"
+          EN: "Weidmüller"
+        picture: weidmuller.jpg
