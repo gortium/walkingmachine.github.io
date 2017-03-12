@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+@keyframes titlespacing {
+    from {letter-spacing: 0px;}
+    to {letter-spacing: 12px;}
+}
+
+.img {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+}
+
+h2.category {
+  font-weight: bold;
+  letter-spacing: 12px;
+  animation-name: titlespacing;
+  animation-duration: 4s;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  transition: all .5s;
+  overflow: hidden;
+  height: 0;
+  color: white;
+  background: rgba(255, 255, 255, 0);
+}
+.img:hover .overlay,
+.overlay:hover {
+  height: 100%;
+  background: rgba(0,0,0, 0.8);
+}
+.img > img {
+
+  display: block;/* Prevent inline gap under image*/
+}
+
+div.content {
+   font-weight: bold;
+
+}
+
+</style>
+</head>
+<body>
+
+{% include header.html %}
+<section id="main" class="container">
+  <header>
+    <h2>{{page.Title}}</h2>
+    <p>{{page.subTitle}}</p>
+  </header>
+  <div class="box" style="text-align: center" >
+    <!--<span class="image featured"><img src="{% if page.image != null %} {{site.CDN_url}}{{page.image}} {% else %}{{site.CDN_url}}/theme/banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>-->
+
+		{% for category in site.data.partners.category %}
+			<div >
+
+        {% if category.partners %}
+          <br/>
+  				<div  style="background-color:{{category.name["COLOR"]}}; border-radius:5px;"><b ><h2 style="color:#FFFFFF" class="category">{{category.name[page.lang]}}</h2></b>
+          </div>
+
+  				{% for partners in category.partners %}<div class="img" >
+  				  <img src="{{site.CDN_url}}/partners/{{partners.picture}}" alt="partner" width="300"/>
+            <a href="{{partners.link}}" target="_blank">
+  				        <div class="overlay" style="display: table-cell; vertical-align: middle;">{{partners.description[page.lang]}}</div>
+            </a>
+          </div>{% endfor %}
+        {% endif %}
+			</div>
+		{% endfor %}
+    </br>
+    <hr>
+    <div class="content">
+    {{content}}
+    </div>
+  </div>
+
+</section>
+{% include footer.html %}
+</body>
+</html>
