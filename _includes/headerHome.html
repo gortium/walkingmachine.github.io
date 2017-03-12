@@ -58,11 +58,17 @@
 				</header>
 
 			<!-- Banner -->
-				<section id="banner">
+				<section id="banner" >
+
 					<h2>Walking Machine</h2>
-					<p>Club de robotique participant à la Robocup@Home</p>
+					{% if page.lang=="FR" %}
+					<p  class="homeSubTitle">Club de robotique participant à la Robocup@Home</p>
+					{% else %}
+					<p class="homeSubTitle">Robotic club for Robocup@Home competition</p>
+					{% endif %}
 					<ul class="actions">
 						<li><a href={{site.t[page.lang].about.url}} class="button special">{{site.t[page.lang].about.name}}</a></li>
 						<li><a href={{site.t[page.lang].contact.url}} class="button">{{site.t[page.lang].contact.name}}</a></li>
 					</ul>
+
 				</section>
