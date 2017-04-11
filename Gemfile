@@ -20,7 +20,7 @@ gem "github-pages", group: :jekyll_plugins
 gem 'coveralls', require: false
 gem "html-proofer"
 gem "codeclimate-test-reporter", group: :test, require: nil
-
+gem 'json', github: 'flori/json', branch: 'v1.8'
 # If you have any plugins, put them here!
 #group :jekyll_plugins do
 #   gem "jekyll-feed", "~> 0.6"
