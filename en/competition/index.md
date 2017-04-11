@@ -23,18 +23,18 @@ The events are presented in the form of scenarios spread out over two levels of 
 
 ## Last year's scenarios
 
-#### Level I
+#### Stage I
 * Follow a person
 * Clean a room
 * Facial recognition and association
 * Free demonstration of the robot
 
-#### Level II
+#### Stage II
 * Service robot
 * Waiter in a restaurant
 * Demonstration of the robot
 
-#### Final heat
+#### Final Stage
 * Demonstration of the robot
 
 To summarize, the competition presents a great level of challenge and contributes greatly to advancing domestic robotics.
