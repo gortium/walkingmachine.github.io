@@ -69,7 +69,9 @@ div.content {
           </div>
 
   				{% for partners in category.partners %}<div class="img" >
+
   				  <img src="{{site.CDN_url}}/partners/{{partners.picture}}" width="300" alt="Picture not found!"/>
+
             <a href="{{partners.link}}" target="_blank">
   				        <div class="overlay" style="display: table-cell; vertical-align: middle;">{{partners.description[page.lang]}}</div>
             </a>
