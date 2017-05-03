@@ -12,13 +12,6 @@ category:
           FR: "École de technologie supérieure"
           EN: "École de technologie supérieure"
         picture: ets.jpg
-      - part2:
-        name: "Desjardins assurances"
-        link: "http://www.desjardins.com/"
-        description:
-          FR: "Desjardins assurances"
-          EN: "Desjardins insurance"
-        picture: desjardins.jpg
       - part3:
         name: "OVH"
         link: "http://ovh.com/"
@@ -26,20 +19,27 @@ category:
           FR: "OVH"
           EN: "OVH"
         picture: ovh.jpg
-      - part3:
+      - part4:
         name: "Robotiq"
         link: "http://robotiq.com/"
         description:
           FR: "Robotiq"
           EN: "Robotiq"
         picture: robotiq.jpg
-      - part3:
+      - part5:
         name: "AÉÉTS"
         link: "http://aeets.com/"
         description:
           FR: "Association étudiante de l'école de technologie supérieure"
           EN: "Association étudiante de l'école de technologie supérieure"
         picture: aeets.jpg
+      - part6:
+        name: "Altium"
+        link: "http://altium.com/"
+        description:
+          FR: "Altium"
+          EN: "Altium"
+        picture: altium.jpg
 
   - gold:
     name:
@@ -54,16 +54,21 @@ category:
           FR: "Globotech"
           EN: "Globotech"
         picture: globotech.jpg
-
-
+        
   - silver:
     name:
       FR: "ARGENT"
       EN: "SILVER"
       COLOR: "#C0C0C0"
     partners:
-
-
+      - part1:
+        name: "Desjardins sud-ouest"
+        link: "https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81530001"
+        description:
+          FR: "Caisse desjardins sud-ouest de Montréal"
+          EN: "Globotech"
+        picture: desjardins_sud_ouest_mtl.jpg
+        
   - bronze:
     name:
       FR: "BRONZE"
@@ -84,3 +89,10 @@ category:
           FR: "Weidmüller"
           EN: "Weidmüller"
         picture: weidmuller.jpg
+      - part3:
+        name: "FDDAÉÉTS"
+        link: "http://fddaeets.com/"
+        description:
+          FR: "Fond de développement durable de l'Association étudiante de l'école de technologie supérieure"
+          EN: "Fond de developpement durable de l'association etudiante de l'ecole de technologie superieure"
+        picture: fddaeets.jpg
