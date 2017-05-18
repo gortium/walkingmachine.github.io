@@ -84,6 +84,8 @@ team:
       - Lucas:
         name: "Lucas Maurice"
         picture: Lucas_Maurice.jpg
+      - Nicolas:
+        name: "Nicolas Nadeau"
 
   - ele:
     name:
