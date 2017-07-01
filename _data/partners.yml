@@ -96,3 +96,10 @@ category:
           FR: "Fond de développement durable de l'Association étudiante de l'école de technologie supérieure"
           EN: "Fond de developpement durable de l'association etudiante de l'ecole de technologie superieure"
         picture: fddaeets.jpg
+      - part4:
+        name: "Labo Circuits"
+        link: "http://golabo.com/"
+        description:
+          FR: "Labo Circuits"
+          EN: "Labo Circuits"
+        picture: labocircuits.png
