@@ -6,21 +6,23 @@ team:
     membres:
       - jeff:
         name: "Jeffrey Cousineau"
-        picture: Jeffrey_Cousineau.jpg
+        picture: jeffrey_cousineau.jpg
         poste:
           FR: "Capitaine"
           EN: "Captain"
       - poup:
         name: "Thierry Pouplier"
-        picture: Thierry_Pouplier.jpg
+        picture: thierry_pouplier.jpg
         poste:
           FR: "Co-Capitaine"
           EN: "Co-Captain"
       - nath:
         name: "Nathalie Connolly"
+        picture: nathalie_connolly.jpg
         poste:
           FR: "Communications"
           EN: "Communications"
+
   - mec:
     name:
       FR: "Mécanique"
@@ -31,19 +33,21 @@ team:
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
-        picture: Alexandre_Doyle.jpg
+        picture: alexandre_doyle.jpg
       - louischarle:
         name: "Louis-Charle Labarre"
-        picture: Louis_Charle_Labarre.jpg
+        picture: louischarle_labarre.jpg
       - Alois:
         name: "Aloïs Goudard-Bellissens"
-        picture: Alois_Goudard_Bellisens.jpg
+        picture: alois_goudard.jpg
       - Leonore:
         name: "Léonore Jean-François"
       - Fai:
         name: "Cheuf Fai Shum"
+        picture: fai_shum.jpg
       - Vero:
         name: "Veronica Romero Rosales"
+        picture: veronica_romero.jpg
 
   - log:
     name:
@@ -52,25 +56,28 @@ team:
     membres:
       - max:
         name: "Maxime St-Pierre"
+        picture: maxime_stpierre.jpg
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
       - otis:
         name: "Samuel Otis"
-        picture: Samuel_Otis.jpg
+        picture: samuel_otis.jpg
       - PhilLM:
         name: "Philippe La Madelaine"
-        picture: Philippe_La_Madelaine.jpg
+        picture: philippe_lamadeleine.jpg
       - Lucas:
         name: "Lucas Maurice"
-        picture: Lucas_Maurice.jpg
+        picture: lucas_maurice.jpg
       - Nicolas:
         name: "Nicolas Nadeau"
+        picture: nicolas_nadeau.jpg
       - Simon:
         name: "Simon Landry"
+        picture: simon_landry.jpg
       - greg:
         name: "Francis Grégoire"
-        picture: Francis_Gregoire.jpg
+        picture: francis_gregoire.jpg
 
   - ele:
     name:
@@ -79,10 +86,10 @@ team:
     membres:
       - jimmy:
         name: "Jimmy Poirier"
-        picture: Jimmy_Poirier.jpg
+        picture: jimmy_poirier.jpg
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
       - red1:
         name: "Redouane Laref"
-        picture: Redouane_Laref.jpg
+        picture: redouane_laref.jpg
