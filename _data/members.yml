@@ -22,6 +22,12 @@ team:
         poste:
           FR: "Communications"
           EN: "Communications"
+      - sara:
+        name: "S.A.R.A."
+        picture: sara.jpg
+        poste:
+          FR: "Robot"
+          EN: "Robot"
 
   - mec:
     name:
