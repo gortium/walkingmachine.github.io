@@ -7,5 +7,4 @@ ref: team
 image: /sara/team_banner.jpg
 ---
 
-## Oh no :(
-Nous sommes désolés mais nous sommes toujours en construction.
+## Notre équipe
