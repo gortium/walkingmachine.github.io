@@ -10,12 +10,6 @@ team:
         poste:
           FR: "Capitaine"
           EN: "Captain"
-      - poup:
-        name: "Thierry Pouplier"
-        picture: thierry_pouplier.jpg
-        poste:
-          FR: "Co-Capitaine"
-          EN: "Co-Captain"
       - nath:
         name: "Nathalie Connolly"
         picture: nathalie_connolly.jpg
@@ -34,15 +28,12 @@ team:
       FR: "Mécanique"
       EN: "Mecanical"
     membres:
-      - doyle:
-        name: "Alexandre Doyle"
-        poste:
-          FR: "Chef d'équipe"
-          EN: "Team leader"
-        picture: alexandre_doyle.jpg
       - louischarle:
         name: "Louis-Charle Labarre"
         picture: louischarle_labarre.jpg
+        poste:
+          FR: "Chef d'équipe"
+          EN: "Team leader"
       - Alois:
         name: "Aloïs Goudard-Bellissens"
         picture: alois_goudard.jpg
