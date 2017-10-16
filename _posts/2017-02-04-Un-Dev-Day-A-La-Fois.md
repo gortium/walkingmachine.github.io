@@ -2,7 +2,7 @@
 Title: "Un Dev Day à la fois"
 layout: article
 lang: FR
-ref: post
+ref: post1
 image: "https://drive.google.com/file/d/0B4wrVuOpLNOYVWgwYWE5dFE5bFE/view?usp=sharing"
 ---
 Samedi, 4 février,

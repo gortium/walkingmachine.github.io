@@ -2,7 +2,7 @@
 Title: "Gestion de la batterie (BMS)"
 layout: article
 lang: FR
-ref: post
+ref: post2
 ---
 
 ## Gestion de la batterie (BMS)

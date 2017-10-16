@@ -2,7 +2,7 @@
 Title: "Battery Management System (BMS)"
 layout: article
 lang: EN 
-ref: post
+ref: post2
 ---
 
 ## Battery Management System (BMS)
