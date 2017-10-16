@@ -4,7 +4,7 @@ subTitle: "Bonne lecture"
 layout: blog
 lang: FR
 ref: blog
-image:
+image: "/banner/blog.jpg"
 ---
 
 ## Bienvenue sur notre blogue
