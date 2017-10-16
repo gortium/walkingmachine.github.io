@@ -4,7 +4,7 @@ subTitle: "There are no shortcut's in our work only pride"
 layout: blog
 lang: EN
 ref: blog
-image:
+image: "/banner/blog.jpg"
 ---
 
 ## Welcome to our little diary to success
