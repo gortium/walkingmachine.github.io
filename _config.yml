@@ -51,6 +51,9 @@ t:
     media:
       name: "Media"
       url: "/en/media"
+    publication:
+      name: "Publications"
+      url: "/en/publications"
     contact:
       name: "Contact-us"
       url: "/en/contact"
@@ -83,6 +86,9 @@ t:
     media:
       name: "Média"
       url: "/fr/media"
+    publication:
+      name: "Publications"
+      url: "/fr/publications"
     contact:
       name: "Nous contacter"
       url: "/fr/contact"
