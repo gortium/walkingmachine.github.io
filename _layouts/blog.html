@@ -9,13 +9,56 @@
     <span class="image featured"><img src="{% if page.image != null %} {{site.CDN_url}}{{page.image}} {% else %}{{site.CDN_url}}/theme/banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>
   {{ content }}
 
-  {% assign posts=site.posts | where:"lang", page.lang %}
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}März
+  {% when '4' %}April
+  {% when '5' %}Mai
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Dezember
+{% endcase %}
+{{ page.date | date: "%Y" }}
+
+
+
+
+ {% assign posts=site.posts | where:"lang", page.lang %}
 
 {% for post in posts %}
   {% assign currentdate = post.date | date: "%B %Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id="y{{post.date | date: "%B %Y"}}">{{ currentdate }}</h1>
+    <h1 id="y{{post.date | date: "%B %Y"}}">
+      {% assign m = post.date | date: "%-m" %}
+        {% if page.lang == "FR" %}       
+          {% case m %}
+	        {% when '1' %}Janvier
+	        {% when '2' %}Février
+	        {% when '3' %}Mars
+	        {% when '4' %}Avril
+	        {% when '5' %}Mai
+	        {% when '6' %}Juin
+	        {% when '7' %}Juillet
+	        {% when '8' %}Août
+	        {% when '9' %}Septembre
+	        {% when '10' %}Octobre
+	        {% when '11' %}Novembre
+	        {% when '12' %}Décembre
+          {% endcase %}
+        {{ currentdate | date: "%Y"}}
+        
+        {% elsif page.lang == "EN" %}
+            {{ currentdate | date: "%B %Y"}}
+        {% endif %}
+    </h1>
     <ul>
     {% assign date = currentdate %}
   {% endif %}
