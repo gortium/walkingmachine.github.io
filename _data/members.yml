@@ -10,12 +10,22 @@ team:
         poste:
           FR: "Capitaine"
           EN: "Captain"
+      - Leonore:
+        name: "Léonore Jean-François"
+        poste:
+          FR: "Trésorière"
+          EN: "Treasurer"
+      - quentin:
+        name: "Quentin Gaillot"
+        poste:
+          FR: "Communications"
+          EN: "Communications"
       - nath:
         name: "Nathalie Connolly"
         picture: nathalie_connolly.jpg
         poste:
-          FR: "Communications"
-          EN: "Communications"
+          FR: "Relations Externes"
+          EN: "External Relations"
       - sara:
         name: "S.A.R.A."
         picture: sara.jpg
@@ -34,17 +44,16 @@ team:
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
-      - Alois:
-        name: "Aloïs Goudard-Bellissens"
-        picture: alois_goudard.jpg
-      - Leonore:
-        name: "Léonore Jean-François"
       - Fai:
         name: "Cheuk Fai Shum"
         picture: fai_shum.jpg
       - Vero:
         name: "Veronica Romero Rosales"
         picture: veronica_romero.jpg
+      - Nick:
+        name: "Nicolas Bernatchez"
+      - JF:
+        name: "Jean-Frédéric Boivin"
 
   - log:
     name:
@@ -75,6 +84,8 @@ team:
       - greg:
         name: "Francis Grégoire"
         picture: francis_gregoire.jpg
+      - raph:
+        name: "Raphael Duchaine"
 
   - ele:
     name:
@@ -90,3 +101,5 @@ team:
       - red1:
         name: "Redouane Laref"
         picture: redouane_laref.jpg
+
+
