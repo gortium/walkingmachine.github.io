@@ -6,7 +6,7 @@ lang: FR
 ref: publications
 ---
 
-## Publications
+### **Robocup@Home**
 
 #### **Robocup@Home OPL 2018, Montréal, Canada**
   *  Cousineau, Jeffrey. La Madeleine, Philippe. 2017. [Walking Machine @Home OPL 2018 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2018/WalkingMachine_Robocup2018.pdf)
@@ -25,3 +25,13 @@ ref: publications
 #### **2017**
   * Apparition lors d'une entrevue avec Pierre Gabriel Côté. 2017 [Lien](https://www.facebook.com/WalkingMachine/videos/1474526352631329/)
   * Entrevue avec CTV lors de la conférence de presse pour Robocup 2018. 2017 [Lien](https://www.facebook.com/WalkingMachine/videos/1393778970706068/)
+  * Publicité du groupe Desjardins. 2017 [Lien](https://www.facebook.com/Desjardinsgroup/videos/10154912967826810/)
+
+#### **2016**
+  * Entrevue lors de la CQI (Competition québecoise d'ingénierie). 2016 [Lien](https://www.youtube.com/watch?v=bQa0y4F1gYU)
+
+### **Prix et bourses**
+
+#### **2017**
+  * Fonds de développement durable de l'AÉÉTS. 2017. 2000$ 
+  * Caisse Desjardins du Sud-Ouest de Montreal. 2017. 2500$
