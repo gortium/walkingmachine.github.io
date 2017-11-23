@@ -25,3 +25,13 @@ ref: publications
 #### **2017**
   * Background appearance during an interview with Pierre Gabriel Côté. 2017 [video link](https://www.facebook.com/WalkingMachine/videos/1474526352631329/)
   * CTV interview for the Robocup 2018 press release. 2017 [video link](https://www.facebook.com/WalkingMachine/videos/1393778970706068/)
+  * Desjardins group publicity. 2017 [video link](https://www.facebook.com/Desjardinsgroup/videos/10154912967826810/)
+
+#### **2016**
+  * QEC (Quebec engineering competition) interview. 2016 [video link](https://www.youtube.com/watch?v=bQa0y4F1gYU)
+
+### **Awards**
+
+#### **2017**
+  * Fonds de développement durable de l'AÉÉTS. 2017. 2000$ 
+  * Caisse Desjardins du Sud-Ouest de Montreal. 2017. 2500$
