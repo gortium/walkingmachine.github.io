@@ -33,5 +33,11 @@ ref: publications
 ### **Prix et bourses**
 
 #### **2017**
-  * Fonds de développement durable de l'AÉÉTS. 2017. 2000$ 
-  * Caisse Desjardins du Sud-Ouest de Montreal. 2017. 2500$
+  * FDDAÉÉTS - Clubs. Fonds de développement durable de l'AÉÉTS. 2017. 2000$ 
+  * Caisse Desjardins du Sud-Ouest de Montreal. Caisse Desjardins du Sud-Ouest de Montreal. 2017. 2500$
+
+#### **2012**
+  * COOP ÉTS. Coop ÉTS. 2012. 2000$ 
+  * Fonds FÉRIQUE. Gestion FÉRIQUE. 2012. 1500$
+  * Rio Tinto Alcan. Rio Tinto Alcan Inc. 2012. 1000$
+  * Prix d'excellence Assocaition des ingénieurs-conseil du Québec. AFG. 2012. 1500$
