@@ -20,7 +20,7 @@ ref: publications
   *  Caron, Louis-Martin. et al. 2016. [Walking Machine @Home 2016 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2016/TDP_WalkingMachine_Robocup%202016.pdf)
   *  Vidéo de qualification. Youtube. 2016. [Lien](https://www.youtube.com/watch?v=x5hzugan50k)
 
-### **Entrevue**
+### **Entrevue et reportages**
 
 #### **2018**  
   * Reportage de CTV pour la conférence de presse de Robocup 2018. 2018 [Lien](https://www.facebook.com/WalkingMachine/videos/1602216663195630/)
