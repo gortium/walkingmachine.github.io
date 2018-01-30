@@ -22,6 +22,10 @@ ref: publications
 
 ### **Entrevue**
 
+#### **2018**  
+  * Reportage de CTV pour la conférence de presse de Robocup 2018. 2018 [Lien](https://www.facebook.com/WalkingMachine/videos/1602216663195630/)
+  * Entrevue avec "Le Jeu, C'est Sérieux". 2018 [Lien](https://www.facebook.com/JeuSerieux/videos/1574664819269801/)
+
 #### **2017**
   * Apparition lors d'une entrevue avec Pierre Gabriel Côté. 2017 [Lien](https://www.facebook.com/WalkingMachine/videos/1474526352631329/)
   * Entrevue avec CTV lors de la conférence de presse pour Robocup 2018. 2017 [Lien](https://www.facebook.com/WalkingMachine/videos/1393778970706068/)
