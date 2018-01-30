@@ -20,7 +20,11 @@ ref: publications
   *  Caron, Louis-Martin. et al. 2016. [Walking Machine @Home 2016 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2016/TDP_WalkingMachine_Robocup%202016.pdf)
   *  Qualification video. Youtube. 2017. [video link](https://www.youtube.com/watch?v=x5hzugan50k)
 
-### **Interview**
+### **Interview and reports**
+
+#### **2018**  
+  * CTV report for the Robocup 2018 press release. 2018 [video link](https://www.facebook.com/WalkingMachine/videos/1602216663195630/)
+  * "Le Jeu, C'est Sérieux" interview. 2018 [video link](https://www.facebook.com/JeuSerieux/videos/1574664819269801/)
 
 #### **2017**
   * Background appearance during an interview with Pierre Gabriel Côté. 2017 [video link](https://www.facebook.com/WalkingMachine/videos/1474526352631329/)
