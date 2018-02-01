@@ -20,12 +20,6 @@ team:
         poste:
           FR: "Communications"
           EN: "Communications"
-      - nath:
-        name: "Nathalie Connolly"
-        picture: nathalie_connolly.jpg
-        poste:
-          FR: "Relations Externes"
-          EN: "External Relations"
       - sara:
         name: "S.A.R.A."
         picture: sara.jpg
@@ -52,54 +46,49 @@ team:
         picture: veronica_romero.jpg
       - Nick:
         name: "Nicolas Bernatchez"
-      - JF:
-        name: "Jean-Frédéric Boivin"
+      - Vincent:
+        name: "Vincent Lavoie-Marchildon"
+
 
   - log:
     name:
       FR: "Logiciel"
       EN: "Software"
     membres:
-      - max:
-        name: "Maxime St-Pierre"
-        picture: maxime_stpierre.jpg
+      - PhilLM:
+        name: "Philippe La Madeleine"
+        picture: philippe_lamadeleine.jpg
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
       - otis:
         name: "Samuel Otis"
         picture: samuel_otis.jpg
-      - PhilLM:
-        name: "Philippe La Madeleine"
-        picture: philippe_lamadeleine.jpg
       - Lucas:
         name: "Lucas Maurice"
         picture: lucas_maurice.jpg
-      - Nicolas:
-        name: "Nicolas Nadeau"
-        picture: nicolas_nadeau.jpg
-      - Simon:
-        name: "Simon Landry"
-        picture: simon_landry.jpg
-      - greg:
-        name: "Francis Grégoire"
-        picture: francis_gregoire.jpg
       - raph:
         name: "Raphael Duchaine"
+      - Annie-Ahn:
+        name: "Huynh-anh Le"
+      - QuentinM:
+        name: "Quentin Muret"
 
   - ele:
     name:
       FR: "Électrique"
       EN: "Electric"
     membres:
-      - jimmy:
-        name: "Jimmy Poirier"
-        picture: jimmy_poirier.jpg
-        poste:
-          FR: "Chef d'équipe"
-          EN: "Team leader"
       - red1:
         name: "Redouane Laref"
         picture: redouane_laref.jpg
+        poste:
+          FR: "Chef d'équipe"
+          EN: "Team leader"
+      - jimmy:
+        name: "Jimmy Poirier"
+        picture: jimmy_poirier.jpg
+
+
 
 
