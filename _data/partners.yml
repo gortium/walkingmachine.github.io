@@ -26,13 +26,6 @@ category:
           FR: "Robotiq"
           EN: "Robotiq"
         picture: robotiq.jpg
-      - part5:
-        name: "AÉÉTS"
-        link: "http://aeets.com/"
-        description:
-          FR: "Association étudiante de l'école de technologie supérieure"
-          EN: "Association étudiante de l'école de technologie supérieure"
-        picture: aeets.jpg
       - part6:
         name: "Altium"
         link: "http://altium.com/"
@@ -47,13 +40,13 @@ category:
       EN: "GOLD"
       COLOR: "#FFBF00"
     partners:
-      - part1:
-        name: "Globotech"
-        link: "https://www.globo.tech"
+      - part2:
+        name: "AÉÉTS"
+        link: "http://aeets.com/"
         description:
-          FR: "Globotech"
-          EN: "Globotech"
-        picture: globotech.jpg
+          FR: "Association étudiante de l'école de technologie supérieure"
+          EN: "Association étudiante de l'école de technologie supérieure"
+        picture: aeets.jpg
         
   - silver:
     name:
@@ -62,12 +55,26 @@ category:
       COLOR: "#C0C0C0"
     partners:
       - part1:
-        name: "Desjardins sud-ouest"
-        link: "https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81530001"
+        name: "Multi-Caisses"
+        link: "http://www.multi-caisses.com/"
         description:
-          FR: "Caisse desjardins sud-ouest de Montréal"
+          FR: "Multi-Caisses"
+          EN: "Multi-Caisses"
+        picture: multi_caisses.jpg
+      - part2:
+        name: "Celmire"
+        link: "http://www.celmire.com/"
+        description:
+          FR: "Celmire"
+          EN: "Celmire"
+        picture: celmire.jpg
+      - part3:
+        name: "Globotech"
+        link: "https://www.globo.tech"
+        description:
+          FR: "Globotech"
           EN: "Globotech"
-        picture: desjardins_sud_ouest_mtl.jpg
+        picture: globotech.jpg
         
   - bronze:
     name:
@@ -75,13 +82,6 @@ category:
       EN: "BRONZE"
       COLOR: "#CD7F32"
     partners:
-      - part1:
-        name: "CFML"
-        link: "http://www2.cslaval.qc.ca/metallurgie/"
-        description:
-          FR: "Centre de formation en métallurgie de laval"
-          EN: "Centre de formation en métallurgie de laval"
-        picture: cfml.jpg
       - part2:
         name: "Weidmuller"
         link: "http://www.weidmuller.com/"
@@ -89,13 +89,6 @@ category:
           FR: "Weidmüller"
           EN: "Weidmüller"
         picture: weidmuller.jpg
-      - part3:
-        name: "FDDAÉÉTS"
-        link: "http://fddaeets.com/"
-        description:
-          FR: "Fond de développement durable de l'Association étudiante de l'école de technologie supérieure"
-          EN: "Fond de developpement durable de l'association etudiante de l'ecole de technologie superieure"
-        picture: fddaeets.jpg
       - part4:
         name: "Labo Circuits"
         link: "http://golabo.com/"
