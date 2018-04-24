@@ -15,11 +15,6 @@ team:
         poste:
           FR: "Trésorière"
           EN: "Treasurer"
-      - quentin:
-        name: "Quentin Gaillot"
-        poste:
-          FR: "Communications"
-          EN: "Communications"
       - sara:
         name: "S.A.R.A."
         picture: sara.jpg
@@ -41,13 +36,13 @@ team:
       - Fai:
         name: "Cheuk Fai Shum"
         picture: fai_shum.jpg
-      - Vero:
-        name: "Veronica Romero Rosales"
-        picture: veronica_romero.jpg
       - Nick:
         name: "Nicolas Bernatchez"
       - Vincent:
         name: "Vincent Lavoie-Marchildon"
+      - Alexandre:
+        name: "Alexandre Mongrain"
+        picture: alexandre_mongrain.jpg
 
 
   - log:
@@ -61,18 +56,26 @@ team:
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
-      - otis:
-        name: "Samuel Otis"
-        picture: samuel_otis.jpg
       - Lucas:
         name: "Lucas Maurice"
         picture: lucas_maurice.jpg
+      - quentinG:
+        name: "Quentin Gaillot"
+        picture: jeffrey_cousineau.jpg
+        poste:
+          FR: "Communications"
+          EN: "Communications"
       - raph:
         name: "Raphael Duchaine"
+        picture: raphael_duchaine.jpg
       - Annie-Ahn:
         name: "Huynh-anh Le"
+        picture: huynh-anh_le.jpg
       - QuentinM:
         name: "Quentin Muret"
+      - Vero:
+        name: "Veronica Romero Rosales"
+        picture: veronica_romero.jpg
 
   - ele:
     name:
