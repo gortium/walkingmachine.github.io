@@ -1,7 +1,7 @@
 ---
 Title: "Project"
 subTitle: "Our day-to-day project we work on"
-layout: generic
+layout: project
 lang: EN
 ref: project
 image: "/banner/project.png"
