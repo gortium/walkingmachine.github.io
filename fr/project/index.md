@@ -1,7 +1,7 @@
 ---
 Title: "Nos projets"
 subTitle: "Nos plans et projets de tous les jours"
-layout: generic
+layout: project
 lang: FR
 ref: project
 image: "/banner/project.png"
