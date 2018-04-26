@@ -23,6 +23,7 @@ ref: publications
 ### **Interview and reports**
 
 #### **2018**  
+  * "Un Sorelois développe un robot domestique". 2018 [article](https://www.les2rives.com/un-sorelois-developpe-un-robot-domestique/)
   * CTV report for the Robocup 2018 press release. 2018 [video link](https://www.facebook.com/WalkingMachine/videos/1602216663195630/)
   * "Le Jeu, C'est Sérieux" interview. 2018 [video link](https://www.facebook.com/JeuSerieux/videos/1574664819269801/)
 
