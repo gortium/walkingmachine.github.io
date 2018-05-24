@@ -96,3 +96,10 @@ category:
           FR: "Labo Circuits"
           EN: "Labo Circuits"
         picture: labocircuits.png
+      - part5:
+        name: "Postman"
+        link: "https://www.getpostman.com/"
+        description:
+          FR: "Postman"
+          EN: "Postman"
+        picture: postman.png
