@@ -82,6 +82,13 @@ category:
       EN: "BRONZE"
       COLOR: "#CD7F32"
     partners:
+      - part1:
+        name: "Alva"
+        link: "http://www.alvadesign.ca/"
+        description:
+          FR: "Alva"
+          EN: "Alva"
+        picture: alva.jpg
       - part2:
         name: "Weidmuller"
         link: "http://www.weidmuller.com/"
