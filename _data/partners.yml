@@ -96,14 +96,14 @@ category:
           FR: "Weidmüller"
           EN: "Weidmüller"
         picture: weidmuller.jpg
-      - part4:
+      - part3:
         name: "Labo Circuits"
         link: "http://golabo.com/"
         description:
           FR: "Labo Circuits"
           EN: "Labo Circuits"
         picture: labocircuits.png
-      - part5:
+      - part4:
         name: "Postman"
         link: "https://www.getpostman.com/"
         description:
