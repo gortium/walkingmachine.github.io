@@ -3,7 +3,7 @@ Title: "Partenaires - Robotiq"
 layout: article
 lang: FR
 ref: post3
-image: "/blog/robotiq_gripper2.png"
+image: "https://wcdn.walkingmachine.ca/blog/robotiq_gripper2.png"
 ---
 
 ## Robotiq

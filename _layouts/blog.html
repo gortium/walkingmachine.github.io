@@ -6,7 +6,7 @@
   </header>
   <div class="box">
 
-    <span class="image featured"><img src="{% if page.image != null %} {{site.CDN_url}}{{page.image}} {% else %}{{site.CDN_url}}/theme/banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>
+    <span class="image featured"><img src="{% if page.image != null %} {{page.image}} {% else %}{{site.CDN_url}}/theme/banner.jpg{% endif %}" alt="Oh no we didnt find the image that goes here :( " /></span>
   {{ content }}
 
 

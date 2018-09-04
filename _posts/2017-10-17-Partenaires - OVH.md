@@ -3,7 +3,7 @@ Title: "Partenaires - OVH"
 layout: article
 lang: FR
 ref: post4
-image: "/blog/ovh.png"
+image: "https://wcdn.walkingmachine.ca/blog/ovh.png"
 ---
 
 ## OVH
@@ -11,6 +11,6 @@ OVH est une société qui propose des services informatiques à ses clients dans
 
 Pour OVH, l’écologie n’est pas un effet de mode. Depuis 2003, ils agissent pour réduire leur consommation énergétique en développant et intégrant des systèmes innovants en matière de refroidissement de leurs centres.
 
-Grâce à leur choix d’aider notre club, nous avons pu bénéficier de serveurs dédiés équipés de GPU, nous donnant ainsi la puissance suffisante afin de nous introduire au concept d'apprentissage machine. 
+Grâce à leur choix d’aider notre club, nous avons pu bénéficier de serveurs dédiés équipés de GPU, nous donnant ainsi la puissance suffisante afin de nous introduire au concept d'apprentissage machine.
 
 <http://ovh.com>

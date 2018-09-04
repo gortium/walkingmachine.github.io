@@ -3,7 +3,7 @@ Title: "Partenaires - Argent et Bronze"
 layout: article
 lang: FR
 ref: post7
-image: "/blog/argent-bronze.jpg"
+image: "https://wcdn.walkingmachine.ca/blog/argent-bronze.jpg"
 ---
 
 ## Argent

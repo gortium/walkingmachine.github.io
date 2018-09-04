@@ -3,7 +3,7 @@ Title: "Partners - Silver and Bronze"
 layout: article
 lang: EN
 ref: post7
-image: "/blog/argent-bronze.jpg"
+image: "https://wcdn.walkingmachine.ca/blog/argent-bronze.jpg"
 ---
 
 ## Silver

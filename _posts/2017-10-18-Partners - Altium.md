@@ -3,7 +3,7 @@ Title: "Partners - Altium"
 layout: article
 lang: EN
 ref: post5
-image: "/blog/altium.png"
+image: "https://wcdn.walkingmachine.ca/blog/altium.png"
 ---
 
 ## Altium

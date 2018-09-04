@@ -3,7 +3,7 @@ Title: "Partners - OVH"
 layout: article
 lang: EN
 ref: post4
-image: "/blog/ovh.png"
+image: "https://wcdn.walkingmachine.ca/blog/ovh.png"
 ---
 
 ## OVH

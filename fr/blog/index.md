@@ -4,7 +4,7 @@ subTitle: "Bonne lecture"
 layout: blog
 lang: FR
 ref: blog
-image: "/banner/blog.jpg"
+image: "https://wcdn.walkingmachine.ca/banner/blog.jpg"
 ---
 
 ## Bienvenue sur notre blogue

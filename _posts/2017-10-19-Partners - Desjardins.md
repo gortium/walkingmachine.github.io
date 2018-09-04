@@ -3,7 +3,7 @@ Title: "Partners - Desjardins"
 layout: article
 lang: EN
 ref: post6
-image: "/blog/desjardins.png"
+image: "https://wcdn.walkingmachine.ca/blog/desjardins.png"
 ---
 
 ## Desjardins

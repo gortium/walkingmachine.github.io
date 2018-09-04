@@ -3,7 +3,7 @@ Title: "Partenaires - Desjardins"
 layout: article
 lang: FR
 ref: post6
-image: "/blog/desjardins.png"
+image: "https://wcdn.walkingmachine.ca/blog/desjardins.png"
 ---
 
 ## Desjardins
@@ -13,7 +13,7 @@ Chaque jour, c’est plus de 300 caisses au Québec et en Ontario qui servent le
 
 En plus des services bancaires aux particuliers, Desjardins propose des prestations aux entreprises, font de la gestion de patrimoine et dispose de produits d’assurance aussi bien pour les personnes que les dommages.
 
-Nous souhaitions remercier la caisse Desjardins Sud-Ouest de Montréal qui a décidé de nous octroyer une bourse pour soutenir notre projet. Tous ces dons nous permettent de financer une partie de nos dépenses, aussi bien pour du matériel que pour des déplacements pour des compétitions. 
+Nous souhaitions remercier la caisse Desjardins Sud-Ouest de Montréal qui a décidé de nous octroyer une bourse pour soutenir notre projet. Tous ces dons nous permettent de financer une partie de nos dépenses, aussi bien pour du matériel que pour des déplacements pour des compétitions.
 
 
 
