@@ -104,9 +104,9 @@ category:
           EN: "Labo Circuits"
         picture: labocircuits.png
       - part4:
-        name: "Postman"
-        link: "https://www.getpostman.com/"
+        name: "Timotion"
+        link: "https://www.timotion.com/"
         description:
-          FR: "Postman"
-          EN: "Postman"
-        picture: postman.png
+          FR: "Timotion"
+          EN: "Timotion"
+        picture: timotion.jpg
