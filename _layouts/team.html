@@ -18,7 +18,7 @@
   		<b><h3>{{team.name[page.lang]}}</h3></b>
   		</div>
 
-  		<div class="row">
+		  <div class="row">
 		    {% for member in team.membres %}
 			    <div style="vertical-align:bottom">
 
@@ -33,9 +33,37 @@
 
 			    </div>
 		    {% endfor %}
-		</div>
-		<hr>
-	{% endfor %}
+	    </div>
+	   <hr>
+	   {% endfor %}
+
+     {% for team in site.data.formermembers.team %}
+       <div class="row">
+       <b><h2>{{team.name[page.lang]}}</h2></b>
+       </div>
+
+       <div >
+         {% for member in team.membres %}
+           <div>
+
+             <h3>{{member.name}}</h3>
+
+              {% if member.poste1[page.lang] != null %}
+                <h4>{{member.poste1[page.lang]}}</h4>
+              {% else %}
+              {% endif %}
+              {% if member.poste2[page.lang] != null %}
+                <h4>{{member.poste2[page.lang]}}</h4>
+              {% else %}
+              {% endif %}
+
+           </div>
+         {% endfor %}
+       </div>
+      <hr>
+      {% endfor %}
+
+      <h4> If you were in the team before and want to be part of the former members list, email us : <a>walking@ens.etsmtl.ca</a> </h4>
   </div>
 
 </div>

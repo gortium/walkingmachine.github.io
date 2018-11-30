@@ -1,0 +1,115 @@
+team:
+  - old:
+    name:
+      FR: "Anciens Membres"
+      EN: "Former Members"
+    membres:
+      - maxime:
+        name: "Maxime St-Pierre (2016-2018)"
+        poste1:
+          FR: "Robocup@Home Co-chair, Robocup 2018 Major Chair"
+          EN: "Robocup@Home Co-chair, Robocup 2018 Major Chair"
+        poste2:
+          FR: "Logiciel"
+          EN: "Software"
+      - nathalie:
+        name: "Nathalie Connolly (2016-2018)"
+        poste1:
+          FR: "RoboCup 2018 Major LOC Co-Chair"
+          EN: "RoboCup 2018 Major LOC Co-Chair"
+      - jonathan:
+        name: "Jonathan Fortin (2015-2017)"
+        poste1:
+          FR: "RoboCup 2018 Director of Logistics"
+          EN: "RoboCup 2018 Director of Logistics"
+        poste2:
+          FR: "Capitaine"
+          EN: "Captain"
+      - louismartin:
+        name: "Louis-Martin Caron (2013-2017)"
+        poste1:
+          FR: "Mécanique"
+          EN: "Mechanical"
+      - thierry:
+        name: "Thierry Pouplier (2015-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - alexandre:
+        name: "Alexandre Doyle (2015-2017)"
+        poste1:
+          FR: "Mécanique"
+          EN: "Mechanical"
+      - simonlandry:
+        name: "Simon Landry (2016-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - nicolas:
+        name: "Nicolas Nadeau (2016-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - samuel:
+        name: "Samuel Otis (2015-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - alexchartrand:
+        name: "Alexandre Chartrand (2015-2017)"
+        poste1:
+          FR: "Électrique"
+          EN: "Electrical"
+      - xavier:
+        name: "Xavier Haché (2015-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - laureline:
+        name: "Laureline Estivalet (2016-2017)"
+        poste1:
+          FR: "Communication"
+          EN: "Communication"
+      - quentin1:
+        name: "Quentin Bourret (2016-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - alois:
+        name: "Aloïs Goudard-Bellissens (2016-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - julien:
+        name: "Julien Côté (2016-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - francis:
+        name: "Francis Grégoire (2016-2017)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - cassandra:
+        name: "Cassandra Lépine (2015-2017)"
+        poste1:
+          FR: "Mécanique"
+          EN: "Mechanical"
+        poste2:
+          FR: "Trésorière"
+          EN: "Treasurer"
+      - redouane:
+        name: "Redouane Laref (2016-2018)"
+        poste1:
+          FR: "Directeur électrique"
+          EN: "Electrical director"
+      - lucas:
+        name: "Lucas Maurice (2016-2018)"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - leonore:
+        name: "Léonore (2017-2017)"
+        poste1:
+          FR: "Trésorière"
+          EN: "Treasurer"
