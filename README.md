@@ -9,6 +9,10 @@
 6. View your website at http://127.0.0.1:4000/
 7. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
+## Update dependencies
+1. Delete gemfile.lock
+2. sudo bundle install
+
 # Travis-CI build
 [![Build Status](https://travis-ci.org/WalkingMachine/walkingmachine.github.io.svg?branch=master)](https://travis-ci.org/WalkingMachine/walkingmachine.github.io)
 
