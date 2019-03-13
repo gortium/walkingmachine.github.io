@@ -40,6 +40,13 @@ category:
       EN: "GOLD"
       COLOR: "#FFBF00"
     partners:
+      - part1:
+        name: "Kinova"
+        link: "https://www.kinovarobotics.com"
+        description:
+          FR: "Kinova Robotique"
+          EN: "Kinova Robotic"
+        picture: kinova.jpg
       - part2:
         name: "AÉÉTS"
         link: "http://aeets.com/"
