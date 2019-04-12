@@ -89,6 +89,20 @@ category:
       EN: "BRONZE"
       COLOR: "#CD7F32"
     partners:
+      - part0:
+        name: "Cryos"
+        link: "https://www.cryos.com/"
+        description:
+          FR: "Cryos"
+          EN: "Cryos"
+        picture: cryos.jpg
+      - part5:
+        name: "Robotshop"
+        link: "https://www.robotshop.com/"
+        description:
+          FR: "Robotshop"
+          EN: "Robotshop"
+        picture: robotshop.jpg
       - part1:
         name: "Alva"
         link: "http://www.alvadesign.ca/"
