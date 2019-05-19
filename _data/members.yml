@@ -12,8 +12,9 @@ team:
           EN: "Captain"
       - Leonore:
         name: "Simon Desautels"
+        picture: simon_desautels.jpg
         poste:
-          FR: "Trésorière"
+          FR: "Trésorier"
           EN: "Treasurer"
       - sara:
         name: "S.A.R.A."
