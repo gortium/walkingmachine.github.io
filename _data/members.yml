@@ -28,24 +28,23 @@ team:
       FR: "Mécanique"
       EN: "Mecanical"
     membres:
-      - louischarle:
-        name: "Louis-Charle Labarre"
-        picture: louischarle_labarre.jpg
+      - Nick:
+        name: "Nicolas Bernatchez"
+        picture: nicolas_bernatchez.jpg
         poste:
           FR: "Chef d'équipe"
           EN: "Team leader"
-      - Fai:
-        name: "Cheuk Fai Shum"
-        picture: fai_shum.jpg
-      - Nick:
-        name: "Nicolas Bernatchez"
-      - Vincent:
-        name: "Vincent Lavoie-Marchildon"
       - Alexandre:
         name: "Alexandre Mongrain"
         picture: alexandre_mongrain.jpg
       - Olivier:
         name: "Olivier Allard"
+        picture: olivier_allard.jpg
+      - Vincent:
+        name: "Vincent Lavoie-Marchildon"
+      - Fai:
+        name: "Cheuk Fai Shum"
+        picture: fai_shum.jpg
 
 
   - log:
@@ -57,29 +56,29 @@ team:
         name: "Philippe La Madeleine"
         picture: philippe_lamadeleine.jpg
         poste:
-          FR: "Chef d'équipe"
-          EN: "Team leader"
+          FR: "Co-capitaine & Chef d'équipe"
+          EN: "Co-captain & Team leader"
       - quentinG:
         name: "Quentin Gaillot"
         picture: quentin_gaillot.jpg
-        poste:
-          FR: "Communications"
-          EN: "Communications"
       - raph:
         name: "Raphael Duchaine"
         picture: raphael_duchaine.jpg
       - Annie-Ahn:
         name: "Huynh-anh Le"
         picture: huynh-anh_le.jpg
+      - Hernan:
+        name: "Hernan Valdez"
+        picture: hernan_valdez.jpg
+      - Richmond:
+        name: "Richmond Boni Kouablan"
+        picture: richmond_kouablan.jpg 
+      - Thao:
+        name: "Thao Hoang"
+        picture: thao_hoang.jpg             
       - Vero:
         name: "Veronica Romero Rosales"
         picture: veronica_romero.jpg
-      - Hernan:
-        name: "Hernan Valdez"
-      - Jasmin:
-        name: "Jasmin Gauthier"
-      - Jennifer:
-        name: "Jennifer Huang"
 
 
   - ele:
@@ -88,7 +87,11 @@ team:
       EN: "Electric"
     membres:
       - apa:
-        name: "André-Philippe Audette"
+        name: "André-Philippe Audette"        
+        picture: andrephilippe_audette.jpg
+        poste:
+        FR: "Chef d'équipe"
+        EN: "Team leader"
       - jimmy:
         name: "Jimmy Poirier"
         picture: jimmy_poirier.jpg
