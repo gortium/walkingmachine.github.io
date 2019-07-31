@@ -4,37 +4,42 @@ team:
       FR: "Administration"
       EN: "Administration"
     membres:
-      - jeff:
-        name: "Jeffrey Cousineau"
-        picture: jeffrey_cousineau.jpg
+      - Nick:
+        name: "Nicolas Bernatchez"
+        picture: nicolas_bernatchez.jpg
         poste:
           FR: "Capitaine"
-          EN: "Captain"
-      - Leonore:
+          EN: "Team leader"
+      - apa:
+        name: "André-Philippe Audette"        
+        picture: andrephilippe_audette.jpg
+        poste:
+        FR: "Co-capitaine"
+        EN: "Co Team-Leader"
+      - Simon:
         name: "Simon Desautels"
         picture: simon_desautels.jpg
         poste:
           FR: "Trésorier"
           EN: "Treasurer"
+      - jeff:
+        name: "Jeffrey Cousineau"
+        picture: jeffrey_cousineau.jpg
+        poste:
+          FR: "Mentor"
+          EN: "Mentor"
       - sara:
         name: "S.A.R.A."
         picture: sara.jpg
         poste:
           FR: "Robot"
           EN: "Robot"
-
-
+          
   - mec:
     name:
       FR: "Mécanique"
       EN: "Mecanical"
     membres:
-      - Nick:
-        name: "Nicolas Bernatchez"
-        picture: nicolas_bernatchez.jpg
-        poste:
-          FR: "Chef d'équipe"
-          EN: "Team leader"
       - Alexandre:
         name: "Alexandre Mongrain"
         picture: alexandre_mongrain.jpg
@@ -47,7 +52,6 @@ team:
         name: "Cheuk Fai Shum"
         picture: fai_shum.jpg
 
-
   - log:
     name:
       FR: "Logiciel"
@@ -57,8 +61,8 @@ team:
         name: "Philippe La Madeleine"
         picture: philippe_lamadeleine.jpg
         poste:
-          FR: "Co-capitaine & Chef d'équipe"
-          EN: "Co-captain & Team leader"
+          FR: "Chef d'équipe logiciel"
+          EN: "Software Team leader"
       - quentinG:
         name: "Quentin Gaillot"
         picture: quentin_gaillot.jpg
@@ -81,18 +85,11 @@ team:
         name: "Veronica Romero Rosales"
         picture: veronica_romero.jpg
 
-
   - ele:
     name:
       FR: "Électrique"
       EN: "Electric"
     membres:
-      - apa:
-        name: "André-Philippe Audette"        
-        picture: andrephilippe_audette.jpg
-        poste:
-        FR: "Chef d'équipe"
-        EN: "Team leader"
       - jimmy:
         name: "Jimmy Poirier"
         picture: jimmy_poirier.jpg
