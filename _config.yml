@@ -11,8 +11,8 @@ markdown: kramdown
 street: 1100 rue Notre-Dame Ouest, Montreal, QC, H3C 1K3
 phone: "+1-514-396-8800 #7408"
 room:
-  FR: "A-1728 (corridor des clubs)"
-  EN: "A-1728 (club's hallway)"
+  FR: "D-2014"
+  EN: "D-2014"
 gems:
   - jekyll-feed
   - jemoji
