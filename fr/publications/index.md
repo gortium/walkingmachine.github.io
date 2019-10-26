@@ -8,9 +8,17 @@ ref: publications
 
 ### **Robocup@Home**
 
+#### **Robocup@Home OPL 2020, Montréal, Canada**
+  *  Bernatchez, Nicolas. et al. 2020. [Walking Machine @Home OPL 2020 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2020/WalkingMachine_Robocup2020.pdf)
+  *  Vidéo de qualification. Youtube. 2020. [Lien](https://www.youtube.com/)
+
+#### **Robocup@Home OPL 2019, Montréal, Canada**
+  *  Cousineau, Jeffrey. et al. 2019. [Walking Machine @Home OPL 2019 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2019/WalkingMachine_Robocup2019.pdf)
+  *  Vidéo de qualification. Youtube. 2019. [Lien](https://www.youtube.com/watch?v=PWYqziwsogc)
+
 #### **Robocup@Home OPL 2018, Montréal, Canada**
-  *  Cousineau, Jeffrey. La Madeleine, Philippe. 2017. [Walking Machine @Home OPL 2018 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2018/WalkingMachine_Robocup2018.pdf)
-  *  Vidéo de qualification. Youtube. 2017. [Lien](https://www.youtube.com/watch?v=T3Hh75KV6hw)
+  *  Cousineau, Jeffrey. La Madeleine, Philippe. 2018. [Walking Machine @Home OPL 2018 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2018/WalkingMachine_Robocup2018.pdf)
+  *  Vidéo de qualification. Youtube. 2018. [Lien](https://www.youtube.com/watch?v=T3Hh75KV6hw)
 
 #### **Robocup@Home OPL 2017, Nagoya, Japon**
   *  Cousineau, Jeffrey. et al. 2017. [Walking Machine @Home OPL 2017 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2017/WalkingMachine_Robocup2017.pdf)
