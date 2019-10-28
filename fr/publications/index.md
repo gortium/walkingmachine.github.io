@@ -1,6 +1,6 @@
 ---
 Title: "Publications"
-subTitle: "There are no shortcut's in our work only pride"
+subTitle: "Le bonheur est le fruit du travail"
 layout: publications
 lang: FR
 ref: publications
