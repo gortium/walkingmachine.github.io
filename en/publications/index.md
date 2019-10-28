@@ -7,7 +7,7 @@ ref: publications
 ---
 
 ### **Robocup@Home**
-test
+yé! ça marche!
 #### **Robocup@Home OPL 2018, Montreal, Canada**
   *  Cousineau, Jeffrey. La Madeleine, Philippe. 2017. [Walking Machine @Home OPL 2018 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2018/WalkingMachine_Robocup2018.pdf)
   *  Qualification video. Youtube. 2017. [video link](https://www.youtube.com/watch?v=T3Hh75KV6hw)
