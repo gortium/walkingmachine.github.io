@@ -8,11 +8,11 @@ ref: publications
 
 ### **Robocup@Home**
 
-#### **Robocup@Home OPL 2020, Montréal, Canada**
+#### **Robocup@Home OPL 2020, Bordeaux, France**
   *  Bernatchez, Nicolas. et al. 2020. [Walking Machine @Home OPL 2020 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2020/WalkingMachine_Robocup2020.pdf)
   *  Vidéo de qualification. Youtube. 2020. [Lien](https://www.youtube.com/)
 
-#### **Robocup@Home OPL 2019, Montréal, Canada**
+#### **Robocup@Home OPL 2019, Sydney, Australie**
   *  Cousineau, Jeffrey. et al. 2019. [Walking Machine @Home OPL 2019 Team Description Paper](https://github.com/WalkingMachine/wm_robocup_tdp/raw/tdp_2019/WalkingMachine_Robocup2019.pdf)
   *  Vidéo de qualification. Youtube. 2019. [Lien](https://www.youtube.com/watch?v=PWYqziwsogc)
 
