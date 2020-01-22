@@ -51,10 +51,13 @@ team:
           FR: "Logiciel"
           EN: "Software"
       - samuel:
-        name: "Samuel Otis (2015-2017)"
+        name: "Samuel Otis (2013-2017)"
         poste1:
           FR: "Logiciel"
           EN: "Software"
+        poste2:
+          FR: "Électrique"
+          EN: "Electrical"
       - alexchartrand:
         name: "Alexandre Chartrand (2015-2017)"
         poste1:
