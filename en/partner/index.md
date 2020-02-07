@@ -7,6 +7,6 @@ ref: partner
 image: /sara/partner.jpg
 ---
 
-For partnership inquiries contact us at [walking@ens.etsmtl.ca](mailto:walking@ens.etsmtl.ca).
+For partnership inquiries contact us at [walkingmachine@gmail.com](mailto:walkingmachine@gmail.com).
 
-See our [partnership document](https://wcdn.walkingmachine.ca/documents/Walking_Machine_Partnership.pdf)(1 MB) for more informations.
+See our [partnership document](https://wcdn.walkingmachine.ca/documents/doc_partenariat_EN_2020.pdf)(7 MB) for more informations.
