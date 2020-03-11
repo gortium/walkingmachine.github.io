@@ -25,7 +25,7 @@ t:
   EN:
     donate:
         name: "Donate"
-        url: "https://www.jedonneenligne.org/fdets/CSC/"
+        url: "https://www.imakeanonlinedonation.org/fdets/campaign/ets/equipes/Teams/view/87d37b89-8571-4bf5-b4a9-051de1f6dc7a?OrgName=fdets"
     about:
       name: "About"
       url: "/en/about"
@@ -60,7 +60,7 @@ t:
   FR:
     donate:
         name: "Faire un don"
-        url: "https://www.jedonneenligne.org/fdets/CSC/"
+        url: "https://www.jedonneenligne.org/fdets/campagne/ets/equipes/Teams/view/87d37b89-8571-4bf5-b4a9-051de1f6dc7a"
     about:
       name: "À propos"
       url: "/fr/about"
