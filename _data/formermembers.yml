@@ -4,6 +4,79 @@ team:
       FR: "Anciens Membres"
       EN: "Former Members"
     membres:
+      - Nick:
+        name: "Nicolas Bernatchez"
+        poste1:
+          FR: "Capitaine"
+          EN: "Team leader"
+      - apa:
+        name: "André-Philippe Audette"
+        poste1:
+          FR: "Co-capitaine"
+          EN: "Co Team-Leader"
+      - Simon:
+        name: "Simon Desautels"
+        poste1:
+          FR: "Trésorier"
+          EN: "Treasurer"
+
+      - jeff:
+        name: "Jeffrey Cousineau"
+        poste1:
+          FR: "Mentor"
+          EN: "Mentor"
+
+
+      - raph:
+        name: "Raphael Duchaine"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - Alexandre:
+        name: "Alexandre Mongrain"
+        poste1:
+          FR: "Mécanique"
+          EN: "Mechanical"
+      - Olivier:
+        name: "Olivier Allard"
+        poste1:
+          FR: "Mécanique"
+          EN: "Mechanical"
+      - Vincent:
+        name: "Vincent Lavoie-Marchildon"
+        poste1:
+          FR: "Mécanique"
+          EN: "Mechanical"
+      - Fai:
+        name: "Cheuk Fai Shum"
+        poste1:
+          FR: "Mécanique"
+          EN: "Mechanical"
+      - quentinG:
+        name: "Quentin Gaillot"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - Annie-Ahn:
+        name: "Huynh-anh Le"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - Hernan:
+        name: "Hernan Valdez"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - Richmond:
+        name: "Richmond Boni Kouablan"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
+      - veronica:
+        name: "Veronica Romero Rosales"
+        poste1:
+          FR: "Logiciel"
+          EN: "Software"
       - maxime:
         name: "Maxime St-Pierre (2016-2018)"
         poste1:

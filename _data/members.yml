@@ -4,30 +4,22 @@ team:
       FR: "Administration"
       EN: "Administration"
     membres:
-      - Nick:
-        name: "Nicolas Bernatchez"
-        picture: nicolas_bernatchez.jpg
+      - Thao:
+        name: "Thao Hoang"
+        picture: thao_hoang.jpg 
         poste:
           FR: "Capitaine"
           EN: "Team leader"
-      - apa:
-        name: "André-Philippe Audette"        
-        picture: andrephilippe_audette.jpg
+      - Nimai:
+        name: "Nimai Jariwala"
         poste:
-        FR: "Co-capitaine"
-        EN: "Co Team-Leader"
-      - Simon:
-        name: "Simon Desautels"
-        picture: simon_desautels.jpg
+          FR: "Co-capitaine"
+          EN: "Co team leader" 
+      - Khadija:
+        name: "Khadija Mohammad Amin"
         poste:
           FR: "Trésorier"
-          EN: "Treasurer"
-      - jeff:
-        name: "Jeffrey Cousineau"
-        picture: jeffrey_cousineau.jpg
-        poste:
-          FR: "Mentor"
-          EN: "Mentor"
+          EN: "Treasurer" 
       - sara:
         name: "S.A.R.A."
         picture: sara.jpg
@@ -40,59 +32,25 @@ team:
       FR: "Mécanique"
       EN: "Mecanical"
     membres:
-      - Alexandre:
-        name: "Alexandre Mongrain"
-        picture: alexandre_mongrain.jpg
-      - Olivier:
-        name: "Olivier Allard"
-        picture: olivier_allard.jpg
-      - Vincent:
-        name: "Vincent Lavoie-Marchildon"
-      - Fai:
-        name: "Cheuk Fai Shum"
-        picture: fai_shum.jpg
 
   - log:
     name:
       FR: "Logiciel"
       EN: "Software"
     membres:
-      - PhilLM:
-        name: "Philippe La Madeleine"
-        picture: philippe_lamadeleine.jpg
+      - SimonR:
+        name: "Simon Roy"
         poste:
           FR: "Chef d'équipe logiciel"
           EN: "Software Team leader"
-      - quentinG:
-        name: "Quentin Gaillot"
-        picture: quentin_gaillot.jpg
-      - raph:
-        name: "Raphael Duchaine"
-        picture: raphael_duchaine.jpg
-      - Annie-Ahn:
-        name: "Huynh-anh Le"
-        picture: huynh-anh_le.jpg
-      - Hernan:
-        name: "Hernan Valdez"
-        picture: hernan_valdez.jpg
-      - Richmond:
-        name: "Richmond Boni Kouablan"
-        picture: richmond_kouablan.jpg 
-      - Thao:
-        name: "Thao Hoang"
-        picture: thao_hoang.jpg             
-      - Vero:
-        name: "Veronica Romero Rosales"
-        picture: veronica_romero.jpg
+      - Nimai:
+        name: "Nimai Jariwala"     
 
   - ele:
     name:
       FR: "Électrique"
       EN: "Electric"
     membres:
-      - jimmy:
-        name: "Jimmy Poirier"
-        picture: jimmy_poirier.jpg
 
     
 
