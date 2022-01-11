@@ -1,0 +1,35 @@
+I"H
+<h2 id="sara">S.A.R.A</h2>
+<p>Depuis le début de sa participation à la <a href="http://www.robocupathome.org/">RoboCup@Home</a>, notre équipe a fait de multiples avancements sur notre belle S.A.R.A (Système d’Assistance Robotique Autonome). Sa mission est simple, venir en aide dans les tâches quotidiennes de tous, à la maison. Notre travail, par contre, est beaucoup plus complexe, la rendre la plus fonctionnelle possible dans les différentes tâches qui peuvent lui être données.</p>
+
+<h2 id="nos-projets">Nos projets</h2>
+<p>Pour accomplir ce merveilleux projet, nous avons séparé notre équipe en différents <a href="/fr/team">groupes</a> avec chacun leurs projets dédiés, ceux-ci variant d’année en année. Cette année, les plus importants sont les suivants dans chaque département :</p>
+
+<h1 id="mecanique"><a href="https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+MEC%22">Mecanique</a></h1>
+
+<ul>
+  <li>Optimiser le bas de la structure</li>
+  <li>Concevoir un nouvel espace pour l’ordinateur principal</li>
+  <li>Améliorer l’organisation de l’espace à l’intérieur du robot</li>
+</ul>
+
+<h1 id="electrique"><a href="https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+%C3%89L%C3%89%22">Electrique</a></h1>
+
+<ul>
+  <li>Implémenter le protocole CanOpen pour la communication avec la majorité des pièces composants S.A.R.A</li>
+  <li>Optimiser le câblage interne</li>
+  <li>Concevoir un système de localisation du son</li>
+</ul>
+
+<h1 id="logiciel"><a href="https://github.com/WalkingMachine/sara_commun/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team+%3A+LOG%22">Logiciel</a></h1>
+
+<ul>
+  <li>Implémenter la détection d’objet 3D</li>
+  <li>Implémenter la détection d’expression faciale</li>
+  <li>Optimiser nos packages ROS pour avoir une meilleure couverture de code</li>
+</ul>
+
+<p>Tous nos projets sont libres d’accès sur <a href="https://github.com/WalkingMachine">GitHub</a> et sont tous sous licence MIT logiciel libre. N’hésitez pas d’y faire un tour pour regarder notre progression ou d’y poser des questions. Nous sommes toujours heureux d’offrir notre aide ou d’en recevoir. Qui sait, nous finirons peut-être par nous aider pour concevoir le prochain robot le plus important !</p>
+
+<p>Tout nos systèmes sont conçus pour la plateforme <a href="http://www.ros.org">ROS</a>, le Robot Operating System. Cette plateforme fut choisie dans l’optique d’être modulable et d’avoir la capacité de réutiliser les outils que nous développons sur d’autres robots.</p>
+:ET
