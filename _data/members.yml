@@ -32,6 +32,22 @@ team:
       FR: "Mécanique"
       EN: "Mecanical"
     membres:
+      - SylvainA:
+        name: "Sylvain Abdelmalek"
+        poste:
+          FR: "Chef d'équipe mécanique"
+          EN: "Mechanical Team leader"
+      - Thao:
+        name: "Thao Hoang"
+        picture: thao_hoang.jpg   
+      - SamuelH:
+        name: "Samuel Huynh"
+      - KhadijaM:
+        name: "Khadija Mohammad Amin"
+      - JonathanP:
+        name: " Jonathan Portelance-Adams"
+      - XavierW:
+        name: "Xavier Wolford"
 
   - log:
     name:
@@ -45,12 +61,25 @@ team:
           EN: "Software Team leader"
       - Nimai:
         name: "Nimai Jariwala"     
+      - ArunyP:
+        name: "Aruny Pathammavong"
+      - HanP:
+        name: "Hoang Ngoc Han Pham"
+      - AmiraM:
+        name: "Amira Morsli"
 
   - ele:
     name:
       FR: "Électrique"
       EN: "Electric"
     membres:
+      - BradleyM:
+        name: "Bradley Melé"
+        poste:
+          FR: "Chef d'équipe électrique"
+          EN: "Electrical Team leader"
+      - PhilippeR:
+        name: "Philippe Rochefort"
 
     
 
